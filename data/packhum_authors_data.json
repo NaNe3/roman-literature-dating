@@ -1,0 +1,7398 @@
+[
+  {
+    "author": "Ablabius",
+    "id": "2000",
+    "state": null,
+    "works": [
+      {
+        "title": "001 epigramma [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 300,
+    "birth": "300 AD",
+    "birth_source": "wikidata:Q957189",
+    "birth_match": "Ablabius"
+  },
+  {
+    "author": "Lucius Accius",
+    "id": "400",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "002 praetextae [praet]",
+        "date": null
+      },
+      {
+        "title": "003 tragoediae [trag]",
+        "date": null
+      }
+    ],
+    "birth_year": -170,
+    "birth": "170 BC",
+    "birth_source": "wikidata:Q311287",
+    "birth_match": "Lucius Accius"
+  },
+  {
+    "author": "Valerius Aedituus",
+    "id": "402",
+    "state": null,
+    "works": [
+      {
+        "title": "001 epigrammata [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -200,
+    "birth": "c. 200 BC",
+    "birth_source": "wikidata-floruit:Q249076",
+    "birth_match": "Valerius Aedituus"
+  },
+  {
+    "author": "Aemilius Sura",
+    "id": "2300",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Annis Populi Romani [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Lucius Afranius",
+    "id": "404",
+    "state": null,
+    "works": [
+      {
+        "title": "001 togatae [tog]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q472219",
+    "birth_match": "Lucius Afranius"
+  },
+  {
+    "author": "Iulius Africanus",
+    "id": "902",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": 160,
+    "birth": "160 AD",
+    "birth_source": "wikidata:Q317014",
+    "birth_match": "Sextus Julius Africanus"
+  },
+  {
+    "author": "Gnaeus Domitius Ahenobarbus",
+    "id": "301",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -80,
+    "birth": "80 BC",
+    "birth_source": "wikidata:Q360920",
+    "birth_match": "Gnaeus Domitius Ahenobarbus"
+  },
+  {
+    "author": "Albinus , poet.",
+    "id": "2002",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Rerum Romanarum Liber I [ResRom]",
+        "date": null
+      },
+      {
+        "title": "002 De Metris [DeMetr]",
+        "date": null
+      }
+    ],
+    "birth_year": 100,
+    "birth": "100 AD",
+    "birth_source": "wikidata:Q657941",
+    "birth_match": "Albinus"
+  },
+  {
+    "author": "Publius Alfenus Varus",
+    "id": "406",
+    "state": null,
+    "works": [
+      {
+        "title": "002 iurisprudentia, fragmenta [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q1241376",
+    "birth_match": "Alfenus Varus"
+  },
+  {
+    "author": "Altercatio Hadr. et Epicteti",
+    "id": "1500",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Altercatio Hadr. et Epicteti []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Lucius Ampelius",
+    "id": "1206",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Liber Memorialis [Mem]",
+        "date": null
+      }
+    ],
+    "birth_year": 150,
+    "birth": "150 AD",
+    "birth_source": "wikidata:Q741160",
+    "birth_match": "Lucius Ampelius"
+  },
+  {
+    "author": "Lucius Livius Andronicus",
+    "id": "94",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Odyssia [poet]",
+        "date": null
+      },
+      {
+        "title": "002 tragoediae [trag]",
+        "date": null
+      },
+      {
+        "title": "003 palliatae [pall]",
+        "date": null
+      }
+    ],
+    "birth_year": -280,
+    "birth": "280 BC",
+    "birth_source": "wikidata:Q193058",
+    "birth_match": "Livius Andronicus"
+  },
+  {
+    "author": "Annianus",
+    "id": "1209",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 200,
+    "birth": "c. 200 AD",
+    "birth_source": "wikidata-floruit:Q771227",
+    "birth_match": "Titus Annianus"
+  },
+  {
+    "author": "Titus Annius Luscus",
+    "id": "2",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -196,
+    "birth": "196 BC",
+    "birth_source": "wikidata:Q3656275",
+    "birth_match": "Titus Annius Luscus"
+  },
+  {
+    "author": "Anonymi Epici et Lyrici",
+    "id": "9500",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen Saliare [CarmSal]",
+        "date": null
+      },
+      {
+        "title": "002 versus sacrorum [VersSacr]",
+        "date": null
+      },
+      {
+        "title": "003 sententia [Sent]",
+        "date": null
+      },
+      {
+        "title": "004 A. Atilii Calatini elogium [CalElog]",
+        "date": null
+      },
+      {
+        "title": "005 carmen Priami [CarmPriam]",
+        "date": null
+      },
+      {
+        "title": "006 saturnius(?) [IncSat]",
+        "date": null
+      },
+      {
+        "title": "007 Acilii Glabrionis tabula [GlabTab]",
+        "date": null
+      },
+      {
+        "title": "008 M. Aemilii cos. a. 179 tabula [AemTab]",
+        "date": null
+      },
+      {
+        "title": "009 versiculi populares et pueriles [VersicPop]",
+        "date": null
+      },
+      {
+        "title": "010 praecepta rustica et medica [Praec]",
+        "date": null
+      },
+      {
+        "title": "011 epigramma a Varrone Plauto attributum [EpigrPlaut]",
+        "date": null
+      },
+      {
+        "title": "012 epigramma Pacuvi [EpigrPac]",
+        "date": null
+      },
+      {
+        "title": "013 Ardeatis templi inscriptio [ArdInscr]",
+        "date": null
+      },
+      {
+        "title": "014 templi Tarracinensis inscriptio [TarInscr]",
+        "date": null
+      },
+      {
+        "title": "015 in Carbonem versus popularis [CarbVers]",
+        "date": null
+      },
+      {
+        "title": "016 carmina Marciana et similia [CarmMarc]",
+        "date": null
+      },
+      {
+        "title": "017 versus populares in Caesarem et similia [InCaes]",
+        "date": null
+      },
+      {
+        "title": "018 epigrammata et populares versus in Augustum [InAug]",
+        "date": null
+      },
+      {
+        "title": "019 obtrectatoris Vergilii versiculus [ObtrVerg]",
+        "date": null
+      },
+      {
+        "title": "020 de Crassitio epigramma [CrassEpigr]",
+        "date": null
+      },
+      {
+        "title": "021 populares versus in Sarmentum [InSarm]",
+        "date": null
+      },
+      {
+        "title": "022 versus populares in Tiberium et Germanicum [InTib]",
+        "date": null
+      },
+      {
+        "title": "023 populares versus in Caligulam [InCal]",
+        "date": null
+      },
+      {
+        "title": "024 artificia metrica [Artif]",
+        "date": null
+      },
+      {
+        "title": "025 versus populares in Neronem et eiusque successores [InNer]",
+        "date": null
+      },
+      {
+        "title": "026 versus Hor. Sat. I 10 praemissi [VersHor]",
+        "date": null
+      },
+      {
+        "title": "027 versus de VII sapientibus [VersSap]",
+        "date": null
+      },
+      {
+        "title": "028 odarium [Odar]",
+        "date": null
+      },
+      {
+        "title": "029 versus fortasse Clementis(?) [PoetEp]",
+        "date": null
+      },
+      {
+        "title": "030 versus in Caesares Romanos ex Historia Augusta [HistAug]",
+        "date": null
+      },
+      {
+        "title": "031 versus Orphici ab Arnobio conversi [VersOrph]",
+        "date": null
+      },
+      {
+        "title": "032 Tarentinus senarius [TarSen]",
+        "date": null
+      },
+      {
+        "title": "033 De Venere et Amoribus [VenAmor]",
+        "date": null
+      },
+      {
+        "title": "034 De Metris [Metr]",
+        "date": null
+      },
+      {
+        "title": "035 versus fortasse Enniani [VersEnn]",
+        "date": null
+      },
+      {
+        "title": "036 versus fortasse Luciliani [VersLucil]",
+        "date": null
+      },
+      {
+        "title": "037 versus aevi Catulliani [AevCatul]",
+        "date": null
+      },
+      {
+        "title": "038 versus aevi Catulliani a Morel omissi [AevCatul2]",
+        "date": null
+      },
+      {
+        "title": "039 versus aevi Augustei [AevAug]",
+        "date": null
+      },
+      {
+        "title": "040 serioris aetatis versus [SerAet]",
+        "date": null
+      },
+      {
+        "title": "041 versus reciproci [VersRecip]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Anonymi Comici et Tragici",
+    "id": "9505",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Togatae Poetarum Incertorum [tog]",
+        "date": null
+      },
+      {
+        "title": "002 Atellanae Poetarum Incertorum [atell]",
+        "date": null
+      },
+      {
+        "title": "003 Palliatae Poetarum Incertorum [pall]",
+        "date": null
+      },
+      {
+        "title": "004 Tragoediae Poetarum Incertorum [trag]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Anonymi Grammatici",
+    "id": "9510",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [inc]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Bellum Africum [ Anonymous ]",
+    "id": "426",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Bellum Africum []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Bellum Alexandrinum [ Anonymous ]",
+    "id": "428",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Bellum Alexandrinum []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Bellum Hispaniense [ Anonymous ]",
+    "id": "430",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Bellum Hispaniense []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Gallus Antipater",
+    "id": "1908",
+    "state": null,
+    "works": [
+      {
+        "title": "001 historiae [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Marcus Antonius",
+    "id": "302",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -83,
+    "birth": "83 BC",
+    "birth_source": "wikidata:Q51673",
+    "birth_match": "Mark Antony"
+  },
+  {
+    "author": "Marcus Antonius triumvir",
+    "id": "408",
+    "state": null,
+    "works": [
+      {
+        "title": "002 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Antonius Panurgus",
+    "id": "721",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica, fragmentum [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Caelius Apicius",
+    "id": "2003",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Re Coquinaria [Coqu]",
+        "date": null
+      },
+      {
+        "title": "002 Brevis Ciborum, excerpta [ExcCib]",
+        "date": null
+      },
+      {
+        "title": "003 Brevis Pimentorum, excerpta [ExcPim]",
+        "date": null
+      }
+    ],
+    "birth_year": 100,
+    "birth": "100 AD",
+    "birth_source": "wikidata:Q114982",
+    "birth_match": "Apicius"
+  },
+  {
+    "author": "Appius Claudius Caecus",
+    "id": "4",
+    "state": null,
+    "works": [
+      {
+        "title": "001 sententiae [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Aprissius (?)",
+    "id": "410",
+    "state": null,
+    "works": [
+      {
+        "title": "001 frg. [atell]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Apuleius Madaurensis",
+    "id": "1212",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Apologia [Apol]",
+        "date": null
+      },
+      {
+        "title": "002 Metamorphoses [Met]",
+        "date": null
+      },
+      {
+        "title": "003 Florida [Fl]",
+        "date": null
+      },
+      {
+        "title": "004 De Deo Socratis [Soc]",
+        "date": null
+      },
+      {
+        "title": "005 Anechomenos [Anech]",
+        "date": null
+      },
+      {
+        "title": "006 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "007 fragmenta [frg]",
+        "date": null
+      },
+      {
+        "title": "008 De Mundo [Mun]",
+        "date": null
+      },
+      {
+        "title": "009 De Platone et Eius Dogmate [Pl]",
+        "date": null
+      },
+      {
+        "title": "010 De Deo Socratis, Praef. [sp.] [SocPr]",
+        "date": null
+      }
+    ],
+    "birth_year": 125,
+    "birth": "125 AD",
+    "birth_source": "wikidata:Q170512",
+    "birth_match": "Apuleius"
+  },
+  {
+    "author": "Aquilius , comoed.",
+    "id": "5",
+    "state": null,
+    "works": [
+      {
+        "title": "001 palliata, fragmenta [pall]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q3621131",
+    "birth_match": "Aquilius"
+  },
+  {
+    "author": "Gaius Aquilius Gallus",
+    "id": "412",
+    "state": null,
+    "works": [
+      {
+        "title": "001 iurisprudentia, fragmenta [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -200,
+    "birth": "200 BC",
+    "birth_source": "wikidata:Q328206",
+    "birth_match": "Gaius Aquilius Gallus"
+  },
+  {
+    "author": "Arbonius Silo",
+    "id": "703",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "50 BC",
+    "birth_source": "wikidata:Q2758562",
+    "birth_match": "Abronius Silo"
+  },
+  {
+    "author": "Argum. Aen. et Tetrast.",
+    "id": "3211",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Argumenta Aeneidis, Decasticha [Deca]",
+        "date": null
+      },
+      {
+        "title": "002 Argumenta Aeneidis, Monosticha [Mono]",
+        "date": null
+      },
+      {
+        "title": "003 Tetrasticha in Vergilii Bucolica et Georgica [Tetr]",
+        "date": null
+      },
+      {
+        "title": "004 Tetrasticha in Vergilii Aeneida [TetrAen]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Lucius Arruntius",
+    "id": "414",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Historiae Belli Punici [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -27,
+    "birth": "27 BC",
+    "birth_source": "wikidata:Q1076644",
+    "birth_match": "Lucius Arruntius"
+  },
+  {
+    "author": "Quintus Asconius Pedianus",
+    "id": "803",
+    "state": null,
+    "works": [
+      {
+        "title": "001 In Senatu Contra L. Pisonem [Pis]",
+        "date": null
+      },
+      {
+        "title": "002 Pro Scauro [Scaur]",
+        "date": null
+      },
+      {
+        "title": "003 Pro Milone [Mil]",
+        "date": null
+      },
+      {
+        "title": "004 Pro Cornelio [Corn]",
+        "date": null
+      },
+      {
+        "title": "005 In Toga Candida [TogCand]",
+        "date": null
+      }
+    ],
+    "birth_year": -9,
+    "birth": "9 BC",
+    "birth_source": "wikidata:Q444285",
+    "birth_match": "Asconius Pedianus"
+  },
+  {
+    "author": "Sempronius Asellio",
+    "id": "300",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Rerum Gestarum Libri [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -200,
+    "birth": "200 BC",
+    "birth_source": "wikidata:Q983260",
+    "birth_match": "Sempronius Asellio"
+  },
+  {
+    "author": "Aemilius Asper",
+    "id": "1363",
+    "state": null,
+    "works": [
+      {
+        "title": "001 comment. in Ter. Sall. Verg. [frg]",
+        "date": null
+      },
+      {
+        "title": "002 Vergilius [Verg]",
+        "date": null
+      }
+    ],
+    "birth_year": 100,
+    "birth": "100 AD",
+    "birth_source": "wikidata:Q4687746",
+    "birth_match": "Aemilius Asper"
+  },
+  {
+    "author": "Lucius Ateius Praetextatus",
+    "id": "416",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -105,
+    "birth": "105 BC",
+    "birth_source": "wikidata:Q2868804",
+    "birth_match": "Lucius Ateius Praetextatus"
+  },
+  {
+    "author": "Iulius Atherianus",
+    "id": "1604",
+    "state": null,
+    "works": [
+      {
+        "title": "001 historiae [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Atilius",
+    "id": "7",
+    "state": null,
+    "works": [
+      {
+        "title": "001 palliatae [pall]",
+        "date": null
+      }
+    ],
+    "birth_year": -200,
+    "birth": "200 BC",
+    "birth_source": "wikidata:Q1164947",
+    "birth_match": "Atilius"
+  },
+  {
+    "author": "Titus Quinctius Atta",
+    "id": "418",
+    "state": null,
+    "works": [
+      {
+        "title": "001 epigramma [poet]",
+        "date": null
+      },
+      {
+        "title": "002 togatae [tog]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q3621656",
+    "birth_match": "Titus Quinctius Atta"
+  },
+  {
+    "author": "Aufidius Bassus",
+    "id": "809",
+    "state": null,
+    "works": [
+      {
+        "title": "001 historiae [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "50 BC",
+    "birth_source": "wikidata:Q759760",
+    "birth_match": "Aufidius Bassus"
+  },
+  {
+    "author": "Aufustius",
+    "id": "401",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica, fragmenta [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "c. 50 BC",
+    "birth_source": "wikidata-floruit:Q95000085",
+    "birth_match": "Aufustius"
+  },
+  {
+    "author": "Sentius Augurinus",
+    "id": "1218",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Aurelius Augustinus",
+    "id": "2468",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Laus Cerei [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 354,
+    "birth": "354 AD",
+    "birth_source": "wikidata:Q8018",
+    "birth_match": "Augustine of Hippo"
+  },
+  {
+    "author": "C. Iul. Caes. Augustus Octavianus",
+    "id": "1221",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [carm]",
+        "date": null
+      },
+      {
+        "title": "002 dicta et apophthegmata [Dict]",
+        "date": null
+      },
+      {
+        "title": "003 edicta [edicta]",
+        "date": null
+      },
+      {
+        "title": "004 epistulae [epist]",
+        "date": null
+      },
+      {
+        "title": "005 fragmenta incertae sedis [frginc]",
+        "date": null
+      },
+      {
+        "title": "006 opera historica [hist]",
+        "date": null
+      },
+      {
+        "title": "007 Res Gestae [Anc]",
+        "date": null
+      },
+      {
+        "title": "008 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Caelius Aurelianus",
+    "id": "2305",
+    "state": null,
+    "works": [
+      {
+        "title": "001 E Parmenide de natura [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 500,
+    "birth": "500 AD",
+    "birth_source": "wikidata:Q2514828",
+    "birth_match": "Caelius Aurelianus"
+  },
+  {
+    "author": "Aurelius Opillus",
+    "id": "303",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q1224938",
+    "birth_match": "Aurelius Opilius"
+  },
+  {
+    "author": "Marcus Aurelius",
+    "id": "1224",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 121,
+    "birth": "121 AD",
+    "birth_source": "wikidata:Q1430",
+    "birth_match": "Marcus Aurelius"
+  },
+  {
+    "author": "Sex. Aurelius Victor",
+    "id": "2340",
+    "state": null,
+    "works": [],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Ps. Aurelius Victor",
+    "id": "2342",
+    "state": null,
+    "works": [],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Alfius Avitus",
+    "id": "1203",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Lucius Herennius Balbus",
+    "id": "423",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q92476546",
+    "birth_match": "Lucius Herennius Balbus"
+  },
+  {
+    "author": "Balbus , grom.",
+    "id": "1227",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Expos. et Ratio Omn. Formarum [grom]",
+        "date": null
+      }
+    ],
+    "birth_year": 99,
+    "birth": "c. 99 AD",
+    "birth_source": "wikidata-floruit:Q11058844",
+    "birth_match": "Balbus"
+  },
+  {
+    "author": "Gaius Caesius Bassus",
+    "id": "812",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen [poet]",
+        "date": null
+      },
+      {
+        "title": "002 De Metris, fragmenta [Metr]",
+        "date": null
+      },
+      {
+        "title": "003 De Metris Horatii [sp.] [MetHor]",
+        "date": null
+      },
+      {
+        "title": "004 Breviatio Pedum [sp.] [BrevPed]",
+        "date": null
+      },
+      {
+        "title": "005 De Compositionibus [sp.] [Comp]",
+        "date": null
+      },
+      {
+        "title": "006 Genera Versuum [sp.] [Vers]",
+        "date": null
+      },
+      {
+        "title": "007 Poeticae Species Lat. [sp.] [Poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 50,
+    "birth": "50 AD",
+    "birth_source": "wikidata:Q856970",
+    "birth_match": "Caesius Bassus"
+  },
+  {
+    "author": "Marcus Furius Bibaculus",
+    "id": "432",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -103,
+    "birth": "103 BC",
+    "birth_source": "wikidata:Q250668",
+    "birth_match": "Marcus Furius Bibaculus"
+  },
+  {
+    "author": "Bruttedius Niger",
+    "id": "815",
+    "state": null,
+    "works": [
+      {
+        "title": "001 historiae [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q994757",
+    "birth_match": "Bruttedius Niger"
+  },
+  {
+    "author": "Marcus Iunius Brutus [iur.]",
+    "id": "10",
+    "state": null,
+    "works": [
+      {
+        "title": "001 iurisprudentia [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -85,
+    "birth": "85 BC",
+    "birth_source": "wikidata:Q172248",
+    "birth_match": "Marcus Junius Brutus"
+  },
+  {
+    "author": "Marcus Iunius Brutus [tyr.]",
+    "id": "436",
+    "state": null,
+    "works": [
+      {
+        "title": "002 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -85,
+    "birth": "85 BC",
+    "birth_source": "wikidata:Q172248",
+    "birth_match": "Marcus Junius Brutus"
+  },
+  {
+    "author": "Bucolica Einsidlensia",
+    "id": "821",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Bucolica Einsidlensia []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Caecilius Statius",
+    "id": "13",
+    "state": null,
+    "works": [
+      {
+        "title": "001 palliatae [pall]",
+        "date": null
+      }
+    ],
+    "birth_year": -219,
+    "birth": "219 BC",
+    "birth_source": "wikidata:Q350781",
+    "birth_match": "Caecilius Statius"
+  },
+  {
+    "author": "Aulus Caecina",
+    "id": "442",
+    "state": null,
+    "works": [
+      {
+        "title": "002 fragmentum [frg]",
+        "date": null
+      }
+    ],
+    "birth_year": -43,
+    "birth": "43 BC",
+    "birth_source": "wikidata:Q586829",
+    "birth_match": "Aulus Caecina Severus"
+  },
+  {
+    "author": "Marcus Caelius Rufus",
+    "id": "444",
+    "state": null,
+    "works": [
+      {
+        "title": "002 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -82,
+    "birth": "82 BC",
+    "birth_source": "wikidata:Q779217",
+    "birth_match": "Marcus Caelius Rufus"
+  },
+  {
+    "author": "Cn. Arulenus Caelius Sabinus",
+    "id": "824",
+    "state": null,
+    "works": [
+      {
+        "title": "001 iurisprudentia, fragmenta [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Gaius vel Lucius Caepasius",
+    "id": "445",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Quintus Servilius Caepio",
+    "id": "446",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q463000",
+    "birth_match": "Quintus Servilius Caepio"
+  },
+  {
+    "author": "Gaius Iulius Caesar",
+    "id": "448",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Bello Gallico [Gal]",
+        "date": null
+      },
+      {
+        "title": "002 Bellum Civile [Civ]",
+        "date": null
+      },
+      {
+        "title": "003 orationes [orat]",
+        "date": null
+      },
+      {
+        "title": "004 De Analogia [gram]",
+        "date": null
+      },
+      {
+        "title": "005 Anticato [Anticat]",
+        "date": null
+      },
+      {
+        "title": "006 carmina [carm]",
+        "date": null
+      },
+      {
+        "title": "007 epistulae ad Ciceronem [EpCic]",
+        "date": null
+      },
+      {
+        "title": "008 epistulae ad familiares [EpFam]",
+        "date": null
+      }
+    ],
+    "birth_year": -130,
+    "birth": "130 BC",
+    "birth_source": "wikidata:Q314710",
+    "birth_match": "Gaius Julius Caesar"
+  },
+  {
+    "author": "Lucius Iulius Caesar",
+    "id": "450",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Auspiciorum Liber, fragmenta [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -200,
+    "birth": "200 BC",
+    "birth_source": "wikidata:Q465074",
+    "birth_match": "Lucius Julius Caesar"
+  },
+  {
+    "author": "Caesellius Vindex",
+    "id": "827",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica, fragmenta [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": 150,
+    "birth": "c. 150 AD",
+    "birth_source": "wikidata-floruit:Q105714668",
+    "birth_match": "Lucius Caesellius Vindex"
+  },
+  {
+    "author": "Marcus Calidius",
+    "id": "454",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -95,
+    "birth": "95 BC",
+    "birth_source": "wikidata:Q4281777",
+    "birth_match": "Marcus Calidius"
+  },
+  {
+    "author": "Lucius Calpurnius Piso Frugi",
+    "id": "16",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Annales [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -182,
+    "birth": "182 BC",
+    "birth_source": "wikidata:Q550603",
+    "birth_match": "Lucius Calpurnius Piso Frugi"
+  },
+  {
+    "author": "Gaius Calpurnius Piso",
+    "id": "455",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": 50,
+    "birth": "50 AD",
+    "birth_source": "wikidata:Q469118",
+    "birth_match": "Gaius Calpurnius Piso"
+  },
+  {
+    "author": "Titus Calpurnius Siculus",
+    "id": "830",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Eclogae [Ecl]",
+        "date": null
+      }
+    ],
+    "birth_year": 100,
+    "birth": "c. 100 AD",
+    "birth_source": "wikidata-floruit:Q559878",
+    "birth_match": "Titus Calpurnius Siculus"
+  },
+  {
+    "author": "Calpurnius Flaccus",
+    "id": "1100",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Declamationes, excerpta [Decl]",
+        "date": null
+      }
+    ],
+    "birth_year": 50,
+    "birth": "50 AD",
+    "birth_source": "wikidata:Q5023939",
+    "birth_match": "Calpurnius Flaccus"
+  },
+  {
+    "author": "Gaius Licinius Macer Calvus",
+    "id": "456",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "002 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -82,
+    "birth": "82 BC",
+    "birth_source": "wikidata:Q551668",
+    "birth_match": "Licinius Macer Calvus"
+  },
+  {
+    "author": "Publius Cannutius",
+    "id": "458",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": 106,
+    "birth": "106 AD",
+    "birth_source": "wikidata:Q7258123",
+    "birth_match": "Publius Canutius"
+  },
+  {
+    "author": "Flavius Caper",
+    "id": "1229",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Orthographia [Orth]",
+        "date": null
+      },
+      {
+        "title": "002 De Verbis Dubiis [VerbDub]",
+        "date": null
+      }
+    ],
+    "birth_year": 150,
+    "birth": "150 AD",
+    "birth_source": "wikidata:Q223615",
+    "birth_match": "Flavius Caper"
+  },
+  {
+    "author": "Gaius Ateius Capito",
+    "id": "806",
+    "state": null,
+    "works": [
+      {
+        "title": "001 iurisprudentia [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -38,
+    "birth": "38 BC",
+    "birth_source": "wikidata:Q727589",
+    "birth_match": "Gaius Ateius Capito"
+  },
+  {
+    "author": "Gaius Papirius Carbo",
+    "id": "19",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -163,
+    "birth": "163 BC",
+    "birth_source": "wikidata:Q921025",
+    "birth_match": "Gaius Papirius Carbo"
+  },
+  {
+    "author": "Gaius Papirius Carbo Arvina",
+    "id": "460",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -200,
+    "birth": "200 BC",
+    "birth_source": "wikidata:Q1491488",
+    "birth_match": "Gaius Papirius Carbo"
+  },
+  {
+    "author": "Carmen Arvale",
+    "id": "149",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Carmen Arvale []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Carmen Devotionis",
+    "id": "306",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Carmen Devotionis []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Carmen Evocationis",
+    "id": "309",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Carmen Evocationis []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Carmen de Bello Aegyptiaco",
+    "id": "706",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Carmen de Bello Aegyptiaco []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Aulus Cascellius",
+    "id": "466",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Liber Bene Dictorum, frr. duo [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -41,
+    "birth": "c. 41 BC",
+    "birth_source": "wikidata-floruit:Q633719",
+    "birth_match": "Aulus Cascellius"
+  },
+  {
+    "author": "Cassiodorus Senator",
+    "id": "2355",
+    "state": null,
+    "works": [],
+    "birth_year": 487,
+    "birth": "487 AD",
+    "birth_source": "wikidata:Q192365",
+    "birth_match": "Cassiodorus"
+  },
+  {
+    "author": "Lucius Cassius Longinus",
+    "id": "469",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -151,
+    "birth": "151 BC",
+    "birth_source": "wikidata:Q553282",
+    "birth_match": "Lucius Cassius Longinus"
+  },
+  {
+    "author": "Marcus Porcius Cato",
+    "id": "22",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Agri Cultura [Agr]",
+        "date": null
+      },
+      {
+        "title": "002 De Agri Cultura, fragmenta [Agrfr]",
+        "date": null
+      },
+      {
+        "title": "003 Dicta Memorabilia [Dict]",
+        "date": null
+      },
+      {
+        "title": "004 epistulae [Ep]",
+        "date": null
+      },
+      {
+        "title": "005 De Medicina [Med]",
+        "date": null
+      },
+      {
+        "title": "006 incertorum librorum fragmenta [inc]",
+        "date": null
+      },
+      {
+        "title": "007 iurisprudentia [iur]",
+        "date": null
+      },
+      {
+        "title": "008 De Re Militari [Mil]",
+        "date": null
+      },
+      {
+        "title": "009 Carmen De Moribus [Mor]",
+        "date": null
+      },
+      {
+        "title": "010 orationes [orat]",
+        "date": null
+      },
+      {
+        "title": "011 Origines [hist]",
+        "date": null
+      },
+      {
+        "title": "012 De Rhetorica [Rhet]",
+        "date": null
+      }
+    ],
+    "birth_year": -234,
+    "birth": "234 BC",
+    "birth_source": "wikidata:Q180081",
+    "birth_match": "Cato the Elder"
+  },
+  {
+    "author": "Marcus Porcius Cato M.f.M.n.",
+    "id": "25",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Marcus Porcius Cato Uticensis",
+    "id": "470",
+    "state": null,
+    "works": [
+      {
+        "title": "002 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -95,
+    "birth": "95 BC",
+    "birth_source": "wikidata:Q193506",
+    "birth_match": "Cato the Younger"
+  },
+  {
+    "author": "Gaius Valerius Catullus",
+    "id": "472",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [Carm]",
+        "date": null
+      },
+      {
+        "title": "002 carminum fragmenta [frg]",
+        "date": null
+      }
+    ],
+    "birth_year": -84,
+    "birth": "84 BC",
+    "birth_source": "wikidata:Q163079",
+    "birth_match": "Catullus"
+  },
+  {
+    "author": "Q. Lutatius Catulus iunior",
+    "id": "473",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Aulus Cornelius Celsus",
+    "id": "836",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Agricultura [Agr]",
+        "date": null
+      },
+      {
+        "title": "002 De Medicina [Med]",
+        "date": null
+      },
+      {
+        "title": "003 De Rhetorica [Rhet]",
+        "date": null
+      }
+    ],
+    "birth_year": -25,
+    "birth": "25 BC",
+    "birth_source": "wikidata:Q312420",
+    "birth_match": "Aulus Cornelius Celsus"
+  },
+  {
+    "author": "Chalcidius",
+    "id": "2028",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Ex Graecis Conversiones [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 350,
+    "birth": "350 AD",
+    "birth_source": "wikidata:Q729244",
+    "birth_match": "Calcidius"
+  },
+  {
+    "author": "Marcus Tullius Cicero",
+    "id": "474",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Pro Quinctio [Quinct]",
+        "date": null
+      },
+      {
+        "title": "002 Pro S. Roscio Amerino [SRosc]",
+        "date": null
+      },
+      {
+        "title": "003 Pro Q. Roscio Comoedo [QRosc]",
+        "date": null
+      },
+      {
+        "title": "004 In Q. Caecilium [DivCaec]",
+        "date": null
+      },
+      {
+        "title": "005 In Verrem [Ver]",
+        "date": null
+      },
+      {
+        "title": "006 Pro Tullio [Tul]",
+        "date": null
+      },
+      {
+        "title": "007 Pro Fonteio [Font]",
+        "date": null
+      },
+      {
+        "title": "008 Pro Caecina [Caec]",
+        "date": null
+      },
+      {
+        "title": "009 Pro Lege Manilia [Man]",
+        "date": null
+      },
+      {
+        "title": "010 Pro Cluentio [Clu]",
+        "date": null
+      },
+      {
+        "title": "011 De Lege Agraria [Agr]",
+        "date": null
+      },
+      {
+        "title": "012 Pro Rabirio Perduellionis Reo [RabPerd]",
+        "date": null
+      },
+      {
+        "title": "013 In Catilinam [Catil]",
+        "date": null
+      },
+      {
+        "title": "014 Pro Murena [Mur]",
+        "date": null
+      },
+      {
+        "title": "015 Pro Sulla [Sul]",
+        "date": null
+      },
+      {
+        "title": "016 Pro Archia [Arch]",
+        "date": null
+      },
+      {
+        "title": "017 Pro Flacco [Flac]",
+        "date": null
+      },
+      {
+        "title": "018 Post Reditum ad Populum [RedPop]",
+        "date": null
+      },
+      {
+        "title": "019 Post Reditum in Senatu [RedSen]",
+        "date": null
+      },
+      {
+        "title": "020 De Domo Sua [Dom]",
+        "date": null
+      },
+      {
+        "title": "021 De Haruspicum Responso [Har]",
+        "date": null
+      },
+      {
+        "title": "022 Pro Sestio [Sest]",
+        "date": null
+      },
+      {
+        "title": "023 In Vatinium [Vat]",
+        "date": null
+      },
+      {
+        "title": "024 Pro Caelio [Cael]",
+        "date": null
+      },
+      {
+        "title": "025 De Provinciis Consularibus [Prov]",
+        "date": null
+      },
+      {
+        "title": "026 Pro Balbo [Balb]",
+        "date": null
+      },
+      {
+        "title": "027 In Pisonem [Pis]",
+        "date": null
+      },
+      {
+        "title": "028 Pro Plancio [Planc]",
+        "date": null
+      },
+      {
+        "title": "029 Pro Scauro [Scaur]",
+        "date": null
+      },
+      {
+        "title": "030 Pro Rabirio Postumo [RabPost]",
+        "date": null
+      },
+      {
+        "title": "031 Pro Milone [Mil]",
+        "date": null
+      },
+      {
+        "title": "032 Pro Marcello [Marc]",
+        "date": null
+      },
+      {
+        "title": "033 Pro Ligario [Lig]",
+        "date": null
+      },
+      {
+        "title": "034 Pro Rege Deiotaro [Deiot]",
+        "date": null
+      },
+      {
+        "title": "035 Philippicae [Phil]",
+        "date": null
+      },
+      {
+        "title": "036 De Inventione [Inv]",
+        "date": null
+      },
+      {
+        "title": "037 De Oratore [deOrat]",
+        "date": null
+      },
+      {
+        "title": "038 De Partitione Oratoria [Part]",
+        "date": null
+      },
+      {
+        "title": "039 Brutus [Brut]",
+        "date": null
+      },
+      {
+        "title": "040 Orator [Orat]",
+        "date": null
+      },
+      {
+        "title": "041 De Optimo Genere Oratorum [OptGen]",
+        "date": null
+      },
+      {
+        "title": "042 Topica [Top]",
+        "date": null
+      },
+      {
+        "title": "043 De Republica [Rep]",
+        "date": null
+      },
+      {
+        "title": "044 De Legibus [Leg]",
+        "date": null
+      },
+      {
+        "title": "045 Academica [Ac]",
+        "date": null
+      },
+      {
+        "title": "046 Lucullus [Luc]",
+        "date": null
+      },
+      {
+        "title": "047 Paradoxa Stoicorum [Parad]",
+        "date": null
+      },
+      {
+        "title": "048 De Finibus [Fin]",
+        "date": null
+      },
+      {
+        "title": "049 Tusculanae Disputationes [Tusc]",
+        "date": null
+      },
+      {
+        "title": "050 De Natura Deorum [ND]",
+        "date": null
+      },
+      {
+        "title": "051 Cato Maior de Senectute [Sen]",
+        "date": null
+      },
+      {
+        "title": "052 Laelius de Amicitia [Amic]",
+        "date": null
+      },
+      {
+        "title": "053 De Divinatione [Div]",
+        "date": null
+      },
+      {
+        "title": "054 De Fato [Fat]",
+        "date": null
+      },
+      {
+        "title": "055 De Officiis [Off]",
+        "date": null
+      },
+      {
+        "title": "056 Epistulae ad Familiares [Fam]",
+        "date": null
+      },
+      {
+        "title": "057 Epistulae ad Atticum [Att]",
+        "date": null
+      },
+      {
+        "title": "058 Epistulae ad Quintum Fratrem [Qfr]",
+        "date": null
+      },
+      {
+        "title": "059 Epistulae ad Brutum [adBrut]",
+        "date": null
+      },
+      {
+        "title": "060 Arati Phaenomena [AratPhaen]",
+        "date": null
+      },
+      {
+        "title": "061 Facete Dicta [Facet]",
+        "date": null
+      },
+      {
+        "title": "062 carmina, fragmenta [poet]",
+        "date": null
+      },
+      {
+        "title": "063 Commentarii Causarum [CommCaus]",
+        "date": null
+      },
+      {
+        "title": "064 epistulae, fragmenta [epfrg]",
+        "date": null
+      },
+      {
+        "title": "065 Hortensius [Hort]",
+        "date": null
+      },
+      {
+        "title": "066 incertorum librorum fragmenta [libinc]",
+        "date": null
+      },
+      {
+        "title": "067 De Iure Civ. in Artem Redig. [IurCiv]",
+        "date": null
+      },
+      {
+        "title": "068 orationum deperditarum frr. [oratdep]",
+        "date": null
+      },
+      {
+        "title": "069 orationum incertarum frr. [incorat]",
+        "date": null
+      },
+      {
+        "title": "070 philosophicorum librorum frr. [philfrg]",
+        "date": null
+      },
+      {
+        "title": "071 Arati Prognostica [AratProgn]",
+        "date": null
+      },
+      {
+        "title": "072 Timaeus [Tim]",
+        "date": null
+      },
+      {
+        "title": "073 Rhetorica ad Herennium [sp.] [RhetHer]",
+        "date": null
+      },
+      {
+        "title": "074 In Sallustium [sp.] [Sal]",
+        "date": null
+      },
+      {
+        "title": "075 epistula ad Octavianum [sp.] [EpOct]",
+        "date": null
+      }
+    ],
+    "birth_year": -106,
+    "birth": "106 BC",
+    "birth_source": "wikidata:Q1541",
+    "birth_match": "Cicero"
+  },
+  {
+    "author": "Quintus Tullius Cicero",
+    "id": "478",
+    "state": null,
+    "works": [
+      {
+        "title": "002 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "003 Commentar. Petitionis [sp.] [Pet]",
+        "date": null
+      }
+    ],
+    "birth_year": -102,
+    "birth": "102 BC",
+    "birth_source": "wikidata:Q316054",
+    "birth_match": "Quintus Tullius Cicero"
+  },
+  {
+    "author": "Lucius Cincius Alimentus",
+    "id": "27",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -250,
+    "birth": "250 BC",
+    "birth_source": "wikidata:Q867394",
+    "birth_match": "Lucius Cincius Alimentus"
+  },
+  {
+    "author": "Lucius Cincius",
+    "id": "484",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      },
+      {
+        "title": "002 iurisprudentia [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "50 BC",
+    "birth_source": "wikidata:Q2855302",
+    "birth_match": "Cincius"
+  },
+  {
+    "author": "Gaius Helvius Cinna",
+    "id": "486",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -85,
+    "birth": "85 BC",
+    "birth_source": "wikidata:Q372100",
+    "birth_match": "Helvius Cinna"
+  },
+  {
+    "author": "Cloatius Verus",
+    "id": "724",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica fragmenta [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q91345696",
+    "birth_match": "Cloatius Verus"
+  },
+  {
+    "author": "Clodius Tuscus",
+    "id": "405",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica, fragmenta [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Publius Clodius Pulcher",
+    "id": "487",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -90,
+    "birth": "90 BC",
+    "birth_source": "wikidata:Q313664",
+    "birth_match": "Publius Clodius Pulcher"
+  },
+  {
+    "author": "Servius Clodius",
+    "id": "488",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Gaius Clodius Licinus",
+    "id": "842",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Libri Rerum Romanarum [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "50 BC",
+    "birth_source": "wikidata:Q12093928",
+    "birth_match": "Gaius Clodius Licinus"
+  },
+  {
+    "author": "Lucius Coelius Antipater",
+    "id": "28",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Annales [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -180,
+    "birth": "180 BC",
+    "birth_source": "wikidata:Q704313",
+    "birth_match": "Lucius Coelius Antipater"
+  },
+  {
+    "author": "L. Iunius Moderatus Columella",
+    "id": "845",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Arboribus [Arb]",
+        "date": null
+      },
+      {
+        "title": "002 De Re Rustica [RR]",
+        "date": null
+      }
+    ],
+    "birth_year": 4,
+    "birth": "4 AD",
+    "birth_source": "wikidata:Q318317",
+    "birth_match": "Columella"
+  },
+  {
+    "author": "Publius Cominius",
+    "id": "490",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": 150,
+    "birth": "150 AD",
+    "birth_source": "wikidata:Q91945462",
+    "birth_match": "Publius Cominius Clemens"
+  },
+  {
+    "author": "Commentarii Augurum",
+    "id": "492",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Commentarii Augurum []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Commentarii Consulares",
+    "id": "494",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Commentarii Consulares []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Commentarius Anquisit. Sergii",
+    "id": "496",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Comment. Anquisit. Sergii []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Cornelia , mater Gracchorum",
+    "id": "31",
+    "state": null,
+    "works": [
+      {
+        "title": "001 epistula, fragmenta [Epist]",
+        "date": null
+      }
+    ],
+    "birth_year": -190,
+    "birth": "190 BC",
+    "birth_source": "wikidata:Q234533",
+    "birth_match": "Cornelia"
+  },
+  {
+    "author": "Cornelius Severus",
+    "id": "851",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "002 fragmenta a Morel omissa [poetB]",
+        "date": null
+      }
+    ],
+    "birth_year": -43,
+    "birth": "43 BC",
+    "birth_source": "wikidata:Q1133958",
+    "birth_match": "Cornelius Severus"
+  },
+  {
+    "author": "Quintus Cornificius",
+    "id": "409",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina, fragmenta [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -90,
+    "birth": "90 BC",
+    "birth_source": "wikidata:Q11944250",
+    "birth_match": "Quintus Cornificius"
+  },
+  {
+    "author": "Cornificius Longus",
+    "id": "727",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica, fragmenta [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -44,
+    "birth": "c. 44 BC",
+    "birth_source": "wikidata-floruit:Q98270710",
+    "birth_match": "Cornificius Longus"
+  },
+  {
+    "author": "Cornificius Gallus",
+    "id": "854",
+    "state": null,
+    "works": [
+      {
+        "title": "001 versus in Vergilium [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Lucius Annaeus Cornutus",
+    "id": "857",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": 10,
+    "birth": "10 AD",
+    "birth_source": "wikidata:Q507036",
+    "birth_match": "Lucius Annaeus Cornutus"
+  },
+  {
+    "author": "Gaius Aurelius Cotta",
+    "id": "498",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -124,
+    "birth": "124 BC",
+    "birth_source": "wikidata:Q705425",
+    "birth_match": "Gaius Aurelius Cotta"
+  },
+  {
+    "author": "Lucius Licinius Crassus",
+    "id": "500",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -140,
+    "birth": "140 BC",
+    "birth_source": "wikidata:Q710877",
+    "birth_match": "Lucius Licinius Crassus"
+  },
+  {
+    "author": "Aulus Cremutius Cordus",
+    "id": "502",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Annales [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "50 BC",
+    "birth_source": "wikidata:Q772677",
+    "birth_match": "Aulus Cremutius Cordus"
+  },
+  {
+    "author": "Gaius Scribonius Curio avus",
+    "id": "34",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q11923552",
+    "birth_match": "Gaius Scribonius Curio"
+  },
+  {
+    "author": "Gaius Scribonius Curio pater",
+    "id": "37",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Quintus Curtius Rufus",
+    "id": "860",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Historiae Alexandri Magni [Alex]",
+        "date": null
+      }
+    ],
+    "birth_year": 100,
+    "birth": "100 AD",
+    "birth_source": "wikidata:Q5959",
+    "birth_match": "Quintus Curtius Rufus"
+  },
+  {
+    "author": "Didascaliae et Argum. in Plautum",
+    "id": "1234",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Amphitruo [Am]",
+        "date": null
+      },
+      {
+        "title": "002 Asinaria [As]",
+        "date": null
+      },
+      {
+        "title": "003 Aulularia [Aul]",
+        "date": null
+      },
+      {
+        "title": "004 Captivi [Capt]",
+        "date": null
+      },
+      {
+        "title": "005 Casina [Cas]",
+        "date": null
+      },
+      {
+        "title": "006 Cistellaria [Cist]",
+        "date": null
+      },
+      {
+        "title": "007 Curculio [Cur]",
+        "date": null
+      },
+      {
+        "title": "008 Epidicus [Epid]",
+        "date": null
+      },
+      {
+        "title": "009 Menaechmi [Men]",
+        "date": null
+      },
+      {
+        "title": "010 Mercator [Mer]",
+        "date": null
+      },
+      {
+        "title": "011 Miles Gloriosus [Mil]",
+        "date": null
+      },
+      {
+        "title": "012 Mostellaria [Mos]",
+        "date": null
+      },
+      {
+        "title": "013 Persa [Per]",
+        "date": null
+      },
+      {
+        "title": "014 Poenulus [Poen]",
+        "date": null
+      },
+      {
+        "title": "015 Pseudolus [Ps]",
+        "date": null
+      },
+      {
+        "title": "016 Rudens [Rud]",
+        "date": null
+      },
+      {
+        "title": "017 Stichus [St]",
+        "date": null
+      },
+      {
+        "title": "018 Trinummus [Trin]",
+        "date": null
+      },
+      {
+        "title": "019 Truculentus [Truc]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Didascaliae et Per. in Terentium",
+    "id": "1235",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Andria [An]",
+        "date": null
+      },
+      {
+        "title": "002 Heauton Timorumenos [Hau]",
+        "date": null
+      },
+      {
+        "title": "003 Eunuchus [Eu]",
+        "date": null
+      },
+      {
+        "title": "004 Phormio [Ph]",
+        "date": null
+      },
+      {
+        "title": "005 Hecyra [Hec]",
+        "date": null
+      },
+      {
+        "title": "006 Adelphoe [Ad]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Publius Cornelius Dolabella",
+    "id": "510",
+    "state": null,
+    "works": [
+      {
+        "title": "002 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -69,
+    "birth": "69 BC",
+    "birth_source": "wikidata:Q451597",
+    "birth_match": "Publius Cornelius Dolabella"
+  },
+  {
+    "author": "Domitius Marsus",
+    "id": "709",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "002 epigrammata ex Bobiensibus [EpigrBob]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "50 BC",
+    "birth_source": "wikidata:Q8809",
+    "birth_match": "Domitius Marsus"
+  },
+  {
+    "author": "Dorcatius",
+    "id": "863",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Fabius Dossennus",
+    "id": "312",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina, fragmentum [Carm]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Marcus Duronius",
+    "id": "512",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -97,
+    "birth": "c. 97 BC",
+    "birth_source": "wikidata-floruit:Q11923983",
+    "birth_match": "Marcus Duronius"
+  },
+  {
+    "author": "Egnatius",
+    "id": "514",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Rerum Natura [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 250,
+    "birth": "250 AD",
+    "birth_source": "wikidata:Q1223531",
+    "birth_match": "Egnatius Lucillus"
+  },
+  {
+    "author": "Quintus Ennius",
+    "id": "43",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Annales [Ann]",
+        "date": null
+      },
+      {
+        "title": "002 palliatae [pall]",
+        "date": null
+      },
+      {
+        "title": "003 praetextae [praet]",
+        "date": null
+      },
+      {
+        "title": "004 Saturae [Sat]",
+        "date": null
+      },
+      {
+        "title": "005 tragoediae [trag]",
+        "date": null
+      },
+      {
+        "title": "006 varia [var]",
+        "date": null
+      },
+      {
+        "title": "007 incerta [inc]",
+        "date": null
+      }
+    ],
+    "birth_year": -239,
+    "birth": "239 BC",
+    "birth_source": "wikidata:Q47130",
+    "birth_match": "Q47130"
+  },
+  {
+    "author": "Sextus (vel Spurius) Ennius",
+    "id": "515",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Cornelius Epicadus",
+    "id": "46",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q1133783",
+    "birth_match": "Cornelius Epicadus"
+  },
+  {
+    "author": "Gaius Erucius",
+    "id": "516",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": 200,
+    "birth": "200 AD",
+    "birth_source": "wikidata:Q451275",
+    "birth_match": "Gaius Erucius Clarus"
+  },
+  {
+    "author": "Q. Fabius Maximus Servilianus",
+    "id": "58",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Annales [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Fabius Pictor",
+    "id": "61",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Annales [hist]",
+        "date": null
+      },
+      {
+        "title": "002 Iuris Pontificis Libri [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -254,
+    "birth": "254 BC",
+    "birth_source": "wikidata:Q313500",
+    "birth_match": "Quintus Fabius Pictor"
+  },
+  {
+    "author": "Gaius Fannius",
+    "id": "64",
+    "state": null,
+    "works": [
+      {
+        "title": "001 historiae [hist]",
+        "date": null
+      },
+      {
+        "title": "002 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q11923561",
+    "birth_match": "Gaius Fannius"
+  },
+  {
+    "author": "Favorinus",
+    "id": "67",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": 85,
+    "birth": "85 AD",
+    "birth_source": "wikidata:Q554387",
+    "birth_match": "Favorinus"
+  },
+  {
+    "author": "Fenestella",
+    "id": "866",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Annales [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -36,
+    "birth": "36 BC",
+    "birth_source": "wikidata:Q662582",
+    "birth_match": "Fenestella"
+  },
+  {
+    "author": "Sextus Pompeius Festus",
+    "id": "1236",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Verborum Significatione [Verb]",
+        "date": null
+      }
+    ],
+    "birth_year": 350,
+    "birth": "350 AD",
+    "birth_source": "wikidata:Q302723",
+    "birth_match": "Sextus Pompeius Festus"
+  },
+  {
+    "author": "Rufius Festus",
+    "id": "2343",
+    "state": null,
+    "works": [],
+    "birth_year": 305,
+    "birth": "305 AD",
+    "birth_source": "wikidata:Q366793",
+    "birth_match": "Avienius"
+  },
+  {
+    "author": "Annius Florus",
+    "id": "1242",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Epitome Bell. Omn. Ann. DCC [Epit]",
+        "date": null
+      },
+      {
+        "title": "002 Vergilius Orator an Poeta [Verg]",
+        "date": null
+      },
+      {
+        "title": "003 carmina in Anthologia Latina [anth]",
+        "date": null
+      },
+      {
+        "title": "004 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "005 epist. ad imperat. Hadrianum [Epist]",
+        "date": null
+      }
+    ],
+    "birth_year": 70,
+    "birth": "70 AD",
+    "birth_source": "wikidata:Q316483",
+    "birth_match": "Lucius Annaeus Florus"
+  },
+  {
+    "author": "Fragmenta Bobiensia",
+    "id": "1377",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Littera [Litt]",
+        "date": null
+      },
+      {
+        "title": "002 De Accentibus [Acc]",
+        "date": null
+      },
+      {
+        "title": "003 De Propriis Nominibus [PropNom]",
+        "date": null
+      },
+      {
+        "title": "004 De Nomine [Nom]",
+        "date": null
+      },
+      {
+        "title": "005 De Versibus [Vers]",
+        "date": null
+      },
+      {
+        "title": "006 De Finalibus Syllabis [FinSyll]",
+        "date": null
+      },
+      {
+        "title": "007 De Structuris [Struct]",
+        "date": null
+      },
+      {
+        "title": "008 De Metris [Metr]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Anonymi Fragmenta de Iure Fisci",
+    "id": "1506",
+    "state": null,
+    "works": [
+      {
+        "title": "001 fragmenta de iure fisci []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Sextus Iulius Frontinus",
+    "id": "1245",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Strategemata [Str]",
+        "date": null
+      },
+      {
+        "title": "002 De Aquis Urbis Romae [Aq]",
+        "date": null
+      },
+      {
+        "title": "003 De Agrorum Qualitate [Agr]",
+        "date": null
+      },
+      {
+        "title": "004 De Controversiis [Contr]",
+        "date": null
+      },
+      {
+        "title": "005 De Limitibus [Lim]",
+        "date": null
+      },
+      {
+        "title": "006 De Arte Mensoria [Men]",
+        "date": null
+      }
+    ],
+    "birth_year": 30,
+    "birth": "30 AD",
+    "birth_source": "wikidata:Q297377",
+    "birth_match": "Frontinus"
+  },
+  {
+    "author": "Marcus Cornelius Fronto",
+    "id": "1248",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Ad M. Caesarem et Invicem [AurCaes]",
+        "date": null
+      },
+      {
+        "title": "002 Ad M. Antoninum Imp. Epist. [AurImp]",
+        "date": null
+      },
+      {
+        "title": "003 Ad Verum Imp. Epistulae [Ver]",
+        "date": null
+      },
+      {
+        "title": "004 De Eloquentia [AurEloq]",
+        "date": null
+      },
+      {
+        "title": "005 De Orationibus [AurOrat]",
+        "date": null
+      },
+      {
+        "title": "006 Ad Antoninum Pium Epistulae [AdPium]",
+        "date": null
+      },
+      {
+        "title": "007 Ad Amicos Epistulae [Amic]",
+        "date": null
+      },
+      {
+        "title": "008 Principia Historiae [Princ]",
+        "date": null
+      },
+      {
+        "title": "009 Laudes Fumi et Pulveris [LaudFumPulv]",
+        "date": null
+      },
+      {
+        "title": "010 Laudes Neglegentiae [LaudNegl]",
+        "date": null
+      },
+      {
+        "title": "011 De Bello Parthico [Parth]",
+        "date": null
+      },
+      {
+        "title": "012 De Feriis Alsiensibus [FerAls]",
+        "date": null
+      },
+      {
+        "title": "013 De Nepote Amisso [Nep]",
+        "date": null
+      },
+      {
+        "title": "014 Arion [Ar]",
+        "date": null
+      },
+      {
+        "title": "015 Additamentum Epist. Aceph. [Add]",
+        "date": null
+      },
+      {
+        "title": "016 fragmenta [frg]",
+        "date": null
+      },
+      {
+        "title": "017 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 100,
+    "birth": "100 AD",
+    "birth_source": "wikidata:Q317055",
+    "birth_match": "Marcus Cornelius Fronto"
+  },
+  {
+    "author": "Anonymi de Differentiis [ Fronto ]",
+    "id": "2335",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Differentiis []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Aulus Furius Antias",
+    "id": "518",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -200,
+    "birth": "200 BC",
+    "birth_source": "wikidata:Q718196",
+    "birth_match": "Aulus Furius Antias"
+  },
+  {
+    "author": "Cn. Cornel. Lentulus Gaetulicus",
+    "id": "875",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Gaius , iur.",
+    "id": "1251",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Institutiones [Inst]",
+        "date": null
+      },
+      {
+        "title": "002 Institut., frr. Aeg. et Oxyrh. [Instfrg]",
+        "date": null
+      },
+      {
+        "title": "004 Gai Institutionum epitome [Epit]",
+        "date": null
+      }
+    ],
+    "birth_year": 120,
+    "birth": "120 AD",
+    "birth_source": "wikidata:Q313439",
+    "birth_match": "Gaius"
+  },
+  {
+    "author": "Gaius Aelius Gallus",
+    "id": "522",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Verbis ad Ius Civile [iur]",
+        "date": null
+      },
+      {
+        "title": "002 iurisprudentia, fragmenta [iurfrg]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "50 BC",
+    "birth_source": "wikidata:Q380822",
+    "birth_match": "Aelius Gallus"
+  },
+  {
+    "author": "Gaius Cornelius Gallus",
+    "id": "524",
+    "state": null,
+    "works": [
+      {
+        "title": "001 elegia [poet]",
+        "date": null
+      },
+      {
+        "title": "002 elegia in pap. Qas1r Ibrîm [CarmPap]",
+        "date": null
+      }
+    ],
+    "birth_year": -69,
+    "birth": "69 BC",
+    "birth_source": "wikidata:Q8825",
+    "birth_match": "Gaius Cornelius Gallus"
+  },
+  {
+    "author": "Gaius Asinius Gallus",
+    "id": "878",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen [poet]",
+        "date": null
+      },
+      {
+        "title": "002 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -40,
+    "birth": "40 BC",
+    "birth_source": "wikidata:Q450708",
+    "birth_match": "Gaius Asinius Gallus"
+  },
+  {
+    "author": "Gannius",
+    "id": "527",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Gavius Bassus",
+    "id": "413",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Origine Vocabulorum, frr. [gram]",
+        "date": null
+      },
+      {
+        "title": "002 fragmentum [frg]",
+        "date": null
+      }
+    ],
+    "birth_year": -60,
+    "birth": "c. 60 BC",
+    "birth_source": "wikidata-floruit:Q11699445",
+    "birth_match": "Gavius Bassus"
+  },
+  {
+    "author": "Gnaeus Gellius",
+    "id": "70",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Annales [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -175,
+    "birth": "175 BC",
+    "birth_source": "wikidata:Q674741",
+    "birth_match": "Gnaeus Gellius"
+  },
+  {
+    "author": "Aulus Gellius",
+    "id": "1254",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Noctes Atticae [NA]",
+        "date": null
+      }
+    ],
+    "birth_year": 123,
+    "birth": "123 AD",
+    "birth_source": "wikidata:Q294800",
+    "birth_match": "Aulus Gellius"
+  },
+  {
+    "author": "Claudius Caesar Germanicus",
+    "id": "881",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Aratea [Arat]",
+        "date": null
+      },
+      {
+        "title": "002 fragmenta Aratea [frg]",
+        "date": null
+      },
+      {
+        "title": "003 epigrammata [Epig]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Gaius Servilius Glaucia",
+    "id": "526",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -142,
+    "birth": "142 BC",
+    "birth_source": "wikidata:Q857074",
+    "birth_match": "Gaius Servilius Glaucia"
+  },
+  {
+    "author": "Marcus Iunius Gracchanus",
+    "id": "315",
+    "state": null,
+    "works": [
+      {
+        "title": "001 commentarii [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -200,
+    "birth": "200 BC",
+    "birth_source": "wikidata:Q1164993",
+    "birth_match": "Marcus Junius Gracchanus"
+  },
+  {
+    "author": "Gaius Sempronius Gracchus",
+    "id": "73",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -154,
+    "birth": "154 BC",
+    "birth_source": "wikidata:Q297183",
+    "birth_match": "Gaius Gracchus"
+  },
+  {
+    "author": "Gracchus , trag.",
+    "id": "884",
+    "state": null,
+    "works": [
+      {
+        "title": "001 tragoediae [trag]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Granius Flaccus",
+    "id": "528",
+    "state": null,
+    "works": [
+      {
+        "title": "001 iurisprudentia [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Granius Licinianus",
+    "id": "1257",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Annales [Ann]",
+        "date": null
+      }
+    ],
+    "birth_year": 101,
+    "birth": "101 AD",
+    "birth_source": "wikidata:Q975318",
+    "birth_match": "Granius Licinianus"
+  },
+  {
+    "author": "Grattius",
+    "id": "887",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Cynegetica [Cyneg]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "50 BC",
+    "birth_source": "wikidata:Q1232580",
+    "birth_match": "Grattius"
+  },
+  {
+    "author": "Hadrianus",
+    "id": "1260",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "002 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": 76,
+    "birth": "76 AD",
+    "birth_source": "wikidata:Q1427",
+    "birth_match": "Hadrian"
+  },
+  {
+    "author": "Gaius Cassius Hemina",
+    "id": "76",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Annales [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q948114",
+    "birth_match": "Lucius Cassius Hemina"
+  },
+  {
+    "author": "Hilarius Arelatensis",
+    "id": "2434",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 401,
+    "birth": "401 AD",
+    "birth_source": "wikidata:Q532018",
+    "birth_match": "Hilary of Arles"
+  },
+  {
+    "author": "Aulus Hirtius",
+    "id": "530",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Bello Gallico Liber VIII [Gal]",
+        "date": null
+      },
+      {
+        "title": "002 epistulae [Ep]",
+        "date": null
+      }
+    ],
+    "birth_year": -90,
+    "birth": "90 BC",
+    "birth_source": "wikidata:Q354990",
+    "birth_match": "Aulus Hirtius"
+  },
+  {
+    "author": "Homerus Latinus",
+    "id": "890",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Ilias Latina [Ilias]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Quintus Horatius Flaccus",
+    "id": "893",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Carmina [Carm]",
+        "date": null
+      },
+      {
+        "title": "002 Carmen Saeculare [Saec]",
+        "date": null
+      },
+      {
+        "title": "003 Epodi [Epod]",
+        "date": null
+      },
+      {
+        "title": "004 Sermones [S]",
+        "date": null
+      },
+      {
+        "title": "005 Epistulae [Ep]",
+        "date": null
+      },
+      {
+        "title": "006 Ars Poetica [Ars]",
+        "date": null
+      }
+    ],
+    "birth_year": -65,
+    "birth": "65 BC",
+    "birth_source": "wikidata:Q6197",
+    "birth_match": "Horace"
+  },
+  {
+    "author": "Quintus Hortensius Hortalus",
+    "id": "532",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "002 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -114,
+    "birth": "114 BC",
+    "birth_source": "wikidata:Q320902",
+    "birth_match": "Quintus Hortensius"
+  },
+  {
+    "author": "Hostius",
+    "id": "79",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Bellum Histricum [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q589334",
+    "birth_match": "Hostius"
+  },
+  {
+    "author": "Gaius Iulius Hyginus",
+    "id": "533",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      },
+      {
+        "title": "002 historiae [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -64,
+    "birth": "64 BC",
+    "birth_source": "wikidata:Q298376",
+    "birth_match": "Gaius Julius Hyginus"
+  },
+  {
+    "author": "Hyginus Astronomus",
+    "id": "899",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Astronomica [Astr]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Hyginus , myth.",
+    "id": "1263",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Fabulae [Fab]",
+        "date": null
+      }
+    ],
+    "birth_year": -64,
+    "birth": "64 BC",
+    "birth_source": "wikidata:Q298376",
+    "birth_match": "Gaius Julius Hyginus"
+  },
+  {
+    "author": "Hyginus Gromaticus",
+    "id": "1266",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Limitibus [Lim]",
+        "date": null
+      },
+      {
+        "title": "002 De Condicionibus Agrorum [Agr]",
+        "date": null
+      },
+      {
+        "title": "003 De Generibus Controversiarum [Contr]",
+        "date": null
+      },
+      {
+        "title": "004 Constitutio Limitum [sp.] [Const]",
+        "date": null
+      },
+      {
+        "title": "005 De Munition. Castrorum [sp.] [Munit]",
+        "date": null
+      }
+    ],
+    "birth_year": 100,
+    "birth": "100 AD",
+    "birth_source": "wikidata:Q221223",
+    "birth_match": "Hyginus Gromaticus"
+  },
+  {
+    "author": "Licinius Imbrex",
+    "id": "91",
+    "state": null,
+    "works": [
+      {
+        "title": "001 palliatae [pall]",
+        "date": null
+      }
+    ],
+    "birth_year": -250,
+    "birth": "250 BC",
+    "birth_source": "wikidata:Q13430326",
+    "birth_match": "Licinius Imbrex"
+  },
+  {
+    "author": "Iustinianus",
+    "id": "2806",
+    "state": null,
+    "works": [
+      {
+        "title": "002 Digesta Iustiniani [Dig]",
+        "date": null
+      }
+    ],
+    "birth_year": 482,
+    "birth": "482 AD",
+    "birth_source": "wikidata:Q41866",
+    "birth_match": "Justinian I"
+  },
+  {
+    "author": "Decimus Iunius Iuvenalis",
+    "id": "1276",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Saturae [S]",
+        "date": null
+      }
+    ],
+    "birth_year": 55,
+    "birth": "55 AD",
+    "birth_source": "wikidata:Q193800",
+    "birth_match": "Juvenal"
+  },
+  {
+    "author": "Iuventius , comoed.",
+    "id": "534",
+    "state": null,
+    "works": [
+      {
+        "title": "001 palliatae [pall]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Marcus Iuventius Laterensis",
+    "id": "535",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q20005550",
+    "birth_match": "Marcus Juventius Laterensis"
+  },
+  {
+    "author": "Marcus Antistius Labeo",
+    "id": "905",
+    "state": null,
+    "works": [
+      {
+        "title": "002 iurisprudentia, fragmenta [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q436034",
+    "birth_match": "Marcus Antistius Labeo"
+  },
+  {
+    "author": "Attius Labeo",
+    "id": "908",
+    "state": null,
+    "works": [
+      {
+        "title": "001 versio Latina Iliados [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 50,
+    "birth": "50 AD",
+    "birth_source": "wikidata:Q259531",
+    "birth_match": "Attius Labeo"
+  },
+  {
+    "author": "Decimus Laberius",
+    "id": "536",
+    "state": null,
+    "works": [
+      {
+        "title": "001 mimi [mim]",
+        "date": null
+      }
+    ],
+    "birth_year": -113,
+    "birth": "113 BC",
+    "birth_source": "wikidata:Q1181859",
+    "birth_match": "Decimus Laberius"
+  },
+  {
+    "author": "Titus Labienus",
+    "id": "537",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q311265",
+    "birth_match": "Titus Labienus"
+  },
+  {
+    "author": "Gaius Laelius Sapiens",
+    "id": "85",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -190,
+    "birth": "190 BC",
+    "birth_source": "wikidata:Q1283514",
+    "birth_match": "Gaius Laelius Sapiens"
+  },
+  {
+    "author": "Laelius Felix",
+    "id": "1279",
+    "state": null,
+    "works": [
+      {
+        "title": "001 iurisprudentia, fragmenta [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": 150,
+    "birth": "c. 150 AD",
+    "birth_source": "wikidata-floruit:Q11931323",
+    "birth_match": "Laelius Felix"
+  },
+  {
+    "author": "Laevius",
+    "id": "538",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "002 fr. dubium a Morel omissum [poetB]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q473620",
+    "birth_match": "Laevius"
+  },
+  {
+    "author": "Luscius Lanuvinus",
+    "id": "100",
+    "state": null,
+    "works": [
+      {
+        "title": "001 palliatae [pall]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Scribonius Largus",
+    "id": "1011",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Compositiones [Comp]",
+        "date": null
+      }
+    ],
+    "birth_year": 100,
+    "birth": "100 AD",
+    "birth_source": "wikidata:Q461678",
+    "birth_match": "Scribonius Largus"
+  },
+  {
+    "author": "Tullius Laurea",
+    "id": "540",
+    "state": null,
+    "works": [
+      {
+        "title": "001 epigramma in Ciceronis obitum [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Laus Pisonis",
+    "id": "911",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Laus Pisonis []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Cn. Cornel. Lentulus Marcell.",
+    "id": "541",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Lentulus , mimus",
+    "id": "1282",
+    "state": null,
+    "works": [
+      {
+        "title": "001 mimus [mim]",
+        "date": null
+      }
+    ],
+    "birth_year": -110,
+    "birth": "110 BC",
+    "birth_source": "wikidata:Q378683",
+    "birth_match": "Gnaeus Cornelius Lentulus Vatia"
+  },
+  {
+    "author": "M. Aemilius Lepidus Porcina",
+    "id": "88",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Titus Livius",
+    "id": "914",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Ab Urbe Condita [AUC]",
+        "date": null
+      },
+      {
+        "title": "002 Periochae Librorum A. U. C. [Perioch]",
+        "date": null
+      },
+      {
+        "title": "003 fragmenta [frg]",
+        "date": null
+      },
+      {
+        "title": "004 A.U.C. Perioch. ex P.Oxy.668 [PeriochOxy]",
+        "date": null
+      }
+    ],
+    "birth_year": -59,
+    "birth": "59 BC",
+    "birth_source": "wikidata:Q2039",
+    "birth_match": "Titus Livius"
+  },
+  {
+    "author": "Marcus Annaeus Lucanus",
+    "id": "917",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Bellum Civile [BC]",
+        "date": null
+      },
+      {
+        "title": "002 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 39,
+    "birth": "39 AD",
+    "birth_source": "wikidata:Q188646",
+    "birth_match": "Lucan"
+  },
+  {
+    "author": "Gaius Lucilius",
+    "id": "97",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Saturae, fragmenta [Sat]",
+        "date": null
+      }
+    ],
+    "birth_year": -180,
+    "birth": "180 BC",
+    "birth_source": "wikidata:Q298729",
+    "birth_match": "Gaius Lucilius"
+  },
+  {
+    "author": "Lucilius iunior",
+    "id": "920",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 6,
+    "birth": "6 AD",
+    "birth_source": "wikidata:Q1369527",
+    "birth_match": "Lucilius Junior"
+  },
+  {
+    "author": "Titus Lucretius Carus",
+    "id": "550",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Rerum Natura [DRN]",
+        "date": null
+      },
+      {
+        "title": "002 fragmenta [frg]",
+        "date": null
+      },
+      {
+        "title": "003 Capitula [Cap]",
+        "date": null
+      }
+    ],
+    "birth_year": -94,
+    "birth": "94 BC",
+    "birth_source": "wikidata:Q47154",
+    "birth_match": "Lucretius"
+  },
+  {
+    "author": "Quintus Lutatius Catulus",
+    "id": "552",
+    "state": null,
+    "works": [
+      {
+        "title": "001 epigrammata [poet]",
+        "date": null
+      },
+      {
+        "title": "002 Communes Historiae [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q352035",
+    "birth_match": "Quintus Lutatius Catulus"
+  },
+  {
+    "author": "Gaius Licinius Macer",
+    "id": "556",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Annales [hist]",
+        "date": null
+      },
+      {
+        "title": "002 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -108,
+    "birth": "108 BC",
+    "birth_source": "wikidata:Q1275409",
+    "birth_match": "Gaius Licinius Macer"
+  },
+  {
+    "author": "Aemilius Macer",
+    "id": "923",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "002 fragmentum a Morel omissum [poetB]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Gaius Cilnius Maecenas",
+    "id": "558",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "002 fragmentum a Morel omissum [poetB]",
+        "date": null
+      }
+    ],
+    "birth_year": -70,
+    "birth": "70 BC",
+    "birth_source": "wikidata:Q8833",
+    "birth_match": "Gaius Maecenas"
+  },
+  {
+    "author": "Lucius Volusius Maecianus",
+    "id": "1285",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Assis Distributio ... [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": 110,
+    "birth": "110 AD",
+    "birth_source": "wikidata:Q740977",
+    "birth_match": "Lucius Volusius Maecianus"
+  },
+  {
+    "author": "Helvius Mancia",
+    "id": "560",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "c. 100 BC",
+    "birth_source": "wikidata-floruit:Q20002946",
+    "birth_match": "Helvius Mancia"
+  },
+  {
+    "author": "Manilius , poet.",
+    "id": "562",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 100,
+    "birth": "100 AD",
+    "birth_source": "wikidata:Q352684",
+    "birth_match": "Marcus Manilius"
+  },
+  {
+    "author": "Manius Manilius",
+    "id": "564",
+    "state": null,
+    "works": [
+      {
+        "title": "001 iurisprudentia [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q718143",
+    "birth_match": "Manius Manilius"
+  },
+  {
+    "author": "Marcus Manilius",
+    "id": "926",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Astronomica [Astr]",
+        "date": null
+      }
+    ],
+    "birth_year": 100,
+    "birth": "100 AD",
+    "birth_source": "wikidata:Q352684",
+    "birth_match": "Marcus Manilius"
+  },
+  {
+    "author": "Gnaeus Marcius vates",
+    "id": "103",
+    "state": null,
+    "works": [
+      {
+        "title": "001 praecepta [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Marianus",
+    "id": "1291",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Lupercalia [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 1,
+    "birth": "1 AD",
+    "birth_source": "wikidata:Q23858441",
+    "birth_match": "Marianus"
+  },
+  {
+    "author": "Marcus Valerius Martialis",
+    "id": "1294",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Spectacula [Sp]",
+        "date": null
+      },
+      {
+        "title": "002 Epigrammata [Ep]",
+        "date": null
+      }
+    ],
+    "birth_year": 40,
+    "birth": "40 AD",
+    "birth_source": "wikidata:Q2098",
+    "birth_match": "Martial"
+  },
+  {
+    "author": "Marullus",
+    "id": "1297",
+    "state": null,
+    "works": [
+      {
+        "title": "001 mimi [mim]",
+        "date": null
+      }
+    ],
+    "birth_year": 160,
+    "birth": "c. 160 AD",
+    "birth_source": "wikidata-floruit:Q66133689",
+    "birth_match": "Marullus"
+  },
+  {
+    "author": "Gnaeus Matius",
+    "id": "568",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q1166737",
+    "birth_match": "Gnaeus Matius"
+  },
+  {
+    "author": "Terentianus Maurus",
+    "id": "1518",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Litt., De Syll., De Metr. [LittSyllMetr]",
+        "date": null
+      }
+    ],
+    "birth_year": 150,
+    "birth": "150 AD",
+    "birth_source": "wikidata:Q535060",
+    "birth_match": "Terentianus"
+  },
+  {
+    "author": "Maximianus",
+    "id": "2350",
+    "state": null,
+    "works": [],
+    "birth_year": 240,
+    "birth": "240 AD",
+    "birth_source": "wikidata:Q46768",
+    "birth_match": "Maximian"
+  },
+  {
+    "author": "Pomponius Mela",
+    "id": "929",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Chorographia [Chor]",
+        "date": null
+      }
+    ],
+    "birth_year": 15,
+    "birth": "15 AD",
+    "birth_source": "wikidata:Q297515",
+    "birth_match": "Pomponius Mela"
+  },
+  {
+    "author": "Gaius Memmius",
+    "id": "104",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -99,
+    "birth": "99 BC",
+    "birth_source": "wikidata:Q2472899",
+    "birth_match": "Gaius Memmius"
+  },
+  {
+    "author": "Gaius Memmius L. f.",
+    "id": "574",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "002 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "M. Valerius Messalla Rufus",
+    "id": "576",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Familiis Romanis [hist]",
+        "date": null
+      },
+      {
+        "title": "002 De Auspiciis [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "M. Valerius Messalla Corvinus",
+    "id": "932",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      },
+      {
+        "title": "002 Commentarii de Bello Civili [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Caecilius Metellus",
+    "id": "106",
+    "state": null,
+    "works": [
+      {
+        "title": "001 versus in Naevium [MetVers]",
+        "date": null
+      }
+    ],
+    "birth_year": -157,
+    "birth": "157 BC",
+    "birth_source": "wikidata:Q459853",
+    "birth_match": "Gaius Caecilius Metellus Caprarius"
+  },
+  {
+    "author": "Q. Caecilius Metellus Maced.",
+    "id": "109",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -200,
+    "birth": "200 BC",
+    "birth_source": "wikidata:Q355768",
+    "birth_match": "Quintus Caecilius Metellus Macedonicus"
+  },
+  {
+    "author": "Q. Caecilius Metellus Numid.",
+    "id": "582",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Mimi Poetarum Incertorum",
+    "id": "584",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Mimi Poetarum Incertorum []",
+        "date": null
+      },
+      {
+        "title": "002 fragmenta dubia [dub]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Iulius Modestus",
+    "id": "935",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Iulius Montanus",
+    "id": "938",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Gaius Licinius Mucianus",
+    "id": "546",
+    "state": null,
+    "works": [
+      {
+        "title": "001 historiae [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": 100,
+    "birth": "100 AD",
+    "birth_source": "wikidata:Q521520",
+    "birth_match": "Gaius Licinius Mucianus"
+  },
+  {
+    "author": "Mummius",
+    "id": "586",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Atellanae [atell]",
+        "date": null
+      }
+    ],
+    "birth_year": 200,
+    "birth": "200 AD",
+    "birth_source": "wikidata:Q798159",
+    "birth_match": "Mummius Bassus"
+  },
+  {
+    "author": "Gnaeus Naevius",
+    "id": "112",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Bellum Punicum [Pun]",
+        "date": null
+      },
+      {
+        "title": "002 alia carmina epica [carm]",
+        "date": null
+      },
+      {
+        "title": "003 palliatae [pall]",
+        "date": null
+      },
+      {
+        "title": "004 praetextae [praet]",
+        "date": null
+      },
+      {
+        "title": "005 tragoediae [trag]",
+        "date": null
+      },
+      {
+        "title": "006 carmina, frr. a Morel omissa [poetB]",
+        "date": null
+      },
+      {
+        "title": "007 versus in Metellos [sp.] [InMet]",
+        "date": null
+      }
+    ],
+    "birth_year": -275,
+    "birth": "275 BC",
+    "birth_source": "wikidata:Q212667",
+    "birth_match": "Gnaeus Naevius"
+  },
+  {
+    "author": "Naevius , iunior",
+    "id": "587",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Ilias [CypIl]",
+        "date": null
+      }
+    ],
+    "birth_year": -275,
+    "birth": "275 BC",
+    "birth_source": "wikidata:Q212667",
+    "birth_match": "Gnaeus Naevius"
+  },
+  {
+    "author": "Publius Aufidius Namusa",
+    "id": "420",
+    "state": null,
+    "works": [
+      {
+        "title": "001 iurisprudentia [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Cornelius Nepos",
+    "id": "588",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Vitae [Vit]",
+        "date": null
+      },
+      {
+        "title": "002 fragmenta [frg]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q109594",
+    "birth_match": "Cornelius Nepos"
+  },
+  {
+    "author": "Lucius Neratius Priscus",
+    "id": "1306",
+    "state": null,
+    "works": [
+      {
+        "title": "002 fr. in fragmentis Vaticanis [frg]",
+        "date": null
+      }
+    ],
+    "birth_year": 100,
+    "birth": "100 AD",
+    "birth_source": "wikidata:Q63389",
+    "birth_match": "Lucius Neratius Priscus"
+  },
+  {
+    "author": "Imperator Nero",
+    "id": "944",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Publius Nigidius Figulus",
+    "id": "590",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -98,
+    "birth": "98 BC",
+    "birth_source": "wikidata:Q175042",
+    "birth_match": "Nigidius Figulus"
+  },
+  {
+    "author": "Ninnius Crassus",
+    "id": "591",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Ilias [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Novius , comoed.",
+    "id": "592",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Atellanae [atell]",
+        "date": null
+      }
+    ],
+    "birth_year": -30,
+    "birth": "c. 30 BC",
+    "birth_source": "wikidata-floruit:Q962769",
+    "birth_match": "Quintus Novius"
+  },
+  {
+    "author": "Lucius Novius",
+    "id": "594",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": 150,
+    "birth": "150 AD",
+    "birth_source": "wikidata:Q42221821",
+    "birth_match": "Lucius Novius Crispinus Martialis Saturninus"
+  },
+  {
+    "author": "Numitorius",
+    "id": "596",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Antibucolica [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Gaius Oppius",
+    "id": "600",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Silvestribus Arboribus [agr]",
+        "date": null
+      },
+      {
+        "title": "002 vitae [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q670317",
+    "birth_match": "Gaius Oppius"
+  },
+  {
+    "author": "Lucius Orbilius Pupillus",
+    "id": "419",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -113,
+    "birth": "113 BC",
+    "birth_source": "wikidata:Q745133",
+    "birth_match": "Lucius Orbilius Pupillus"
+  },
+  {
+    "author": "Publius Ovidius Naso",
+    "id": "959",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Amores [Am]",
+        "date": null
+      },
+      {
+        "title": "002 Epistulae (vel Heroides) [Her]",
+        "date": null
+      },
+      {
+        "title": "003 Medicamina Faciei Femineae [Med]",
+        "date": null
+      },
+      {
+        "title": "004 Ars Amatoria [Ars]",
+        "date": null
+      },
+      {
+        "title": "005 Remedia Amoris [Rem]",
+        "date": null
+      },
+      {
+        "title": "006 Metamorphoses [Met]",
+        "date": null
+      },
+      {
+        "title": "007 Fasti [Fast]",
+        "date": null
+      },
+      {
+        "title": "008 Tristia [Tr]",
+        "date": null
+      },
+      {
+        "title": "009 Epistulae ex Ponto [Pont]",
+        "date": null
+      },
+      {
+        "title": "010 Ibis [Ib]",
+        "date": null
+      },
+      {
+        "title": "011 Medea [Medea]",
+        "date": null
+      },
+      {
+        "title": "012 carmina, fragmenta [poet]",
+        "date": null
+      },
+      {
+        "title": "013 Nux [sp.] [Nux]",
+        "date": null
+      },
+      {
+        "title": "014 Halieutica [sp.] [Hal]",
+        "date": null
+      },
+      {
+        "title": "015 Epicedion Drusi [sp.] [EpicDrusi]",
+        "date": null
+      }
+    ],
+    "birth_year": -43,
+    "birth": "43 BC",
+    "birth_source": "wikidata:Q7198",
+    "birth_match": "Ovid"
+  },
+  {
+    "author": "Sextus Paconianus",
+    "id": "2097",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Marcus Pacuvius",
+    "id": "116",
+    "state": null,
+    "works": [
+      {
+        "title": "001 praetextae [praet]",
+        "date": null
+      },
+      {
+        "title": "002 tragoediae [trag]",
+        "date": null
+      }
+    ],
+    "birth_year": -220,
+    "birth": "220 BC",
+    "birth_source": "wikidata:Q314677",
+    "birth_match": "Pacuvius"
+  },
+  {
+    "author": "Quintus Remmius Palaemon",
+    "id": "963",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      },
+      {
+        "title": "002 Ars [sp.] [Ars]",
+        "date": null
+      }
+    ],
+    "birth_year": 100,
+    "birth": "100 AD",
+    "birth_source": "wikidata:Q24548",
+    "birth_match": "Remmius Palaemon"
+  },
+  {
+    "author": "Papinius , epigram.",
+    "id": "117",
+    "state": null,
+    "works": [
+      {
+        "title": "001 epigrammation [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Parthenius Presbyter",
+    "id": "2456",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Passienus Crispus",
+    "id": "966",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "L. Aemilius L.f.M.n. Paulus",
+    "id": "118",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Paulus Quaestor",
+    "id": "9221",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Albinovanus Pedo",
+    "id": "800",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q1526652",
+    "birth_match": "Albinovanus Pedo"
+  },
+  {
+    "author": "Aulus Persius Flaccus",
+    "id": "969",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Saturae [S]",
+        "date": null
+      }
+    ],
+    "birth_year": 34,
+    "birth": "34 AD",
+    "birth_source": "wikidata:Q332785",
+    "birth_match": "Persius"
+  },
+  {
+    "author": "Petronius",
+    "id": "972",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Satyrica [Sat]",
+        "date": null
+      },
+      {
+        "title": "002 Satyrica, fragmenta [frg]",
+        "date": null
+      }
+    ],
+    "birth_year": 27,
+    "birth": "27 AD",
+    "birth_source": "wikidata:Q47180",
+    "birth_match": "Petronius"
+  },
+  {
+    "author": "Phaedrus",
+    "id": "975",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Fabulae Aesopiae [Fab]",
+        "date": null
+      },
+      {
+        "title": "002 Fabularum Appendix [App]",
+        "date": null
+      }
+    ],
+    "birth_year": -20,
+    "birth": "20 BC",
+    "birth_source": "wikidata:Q52166",
+    "birth_match": "Phaedrus"
+  },
+  {
+    "author": "Lucius Marcius Philippus",
+    "id": "606",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -136,
+    "birth": "136 BC",
+    "birth_source": "wikidata:Q387928",
+    "birth_match": "Lucius Marcius Philippus"
+  },
+  {
+    "author": "Philumenus medicus",
+    "id": "1380",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De medicina, versio Latina [Med]",
+        "date": null
+      }
+    ],
+    "birth_year": 150,
+    "birth": "c. 150 AD",
+    "birth_source": "wikidata-floruit:Q1234908",
+    "birth_match": "Philumenus"
+  },
+  {
+    "author": "Titus Maccius Plautus",
+    "id": "119",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Amphitruo [Am]",
+        "date": null
+      },
+      {
+        "title": "002 Asinaria [As]",
+        "date": null
+      },
+      {
+        "title": "003 Aulularia [Aul]",
+        "date": null
+      },
+      {
+        "title": "004 Bacchides [Bac]",
+        "date": null
+      },
+      {
+        "title": "005 Captivi [Capt]",
+        "date": null
+      },
+      {
+        "title": "006 Casina [Cas]",
+        "date": null
+      },
+      {
+        "title": "007 Cistellaria [Cist]",
+        "date": null
+      },
+      {
+        "title": "008 Curculio [Cur]",
+        "date": null
+      },
+      {
+        "title": "009 Epidicus [Epid]",
+        "date": null
+      },
+      {
+        "title": "010 Menaechmi [Men]",
+        "date": null
+      },
+      {
+        "title": "011 Mercator [Mer]",
+        "date": null
+      },
+      {
+        "title": "012 Miles Gloriosus [Mil]",
+        "date": null
+      },
+      {
+        "title": "013 Mostellaria [Mos]",
+        "date": null
+      },
+      {
+        "title": "014 Persa [Per]",
+        "date": null
+      },
+      {
+        "title": "015 Poenulus [Poen]",
+        "date": null
+      },
+      {
+        "title": "016 Pseudolus [Ps]",
+        "date": null
+      },
+      {
+        "title": "017 Rudens [Rud]",
+        "date": null
+      },
+      {
+        "title": "018 Stichus [St]",
+        "date": null
+      },
+      {
+        "title": "019 Trinummus [Trin]",
+        "date": null
+      },
+      {
+        "title": "020 Truculentus [Truc]",
+        "date": null
+      },
+      {
+        "title": "021 Vidularia [Vid]",
+        "date": null
+      },
+      {
+        "title": "022 Fragmenta [Fr]",
+        "date": null
+      }
+    ],
+    "birth_year": -250,
+    "birth": "250 BC",
+    "birth_source": "wikidata:Q47160",
+    "birth_match": "Plautus"
+  },
+  {
+    "author": "Gaius Plinius Secundus",
+    "id": "978",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Naturalis Historia [Nat]",
+        "date": null
+      },
+      {
+        "title": "002 Dubius Sermo [DubSerm]",
+        "date": null
+      }
+    ],
+    "birth_year": 20,
+    "birth": "20 AD",
+    "birth_source": "wikidata:Q82778",
+    "birth_match": "Pliny the Elder"
+  },
+  {
+    "author": "C. Plinius Caecilius Secundus",
+    "id": "1318",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Epistulae [Ep]",
+        "date": null
+      },
+      {
+        "title": "002 Panegyricus [Pan]",
+        "date": null
+      },
+      {
+        "title": "003 versus [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 61,
+    "birth": "61 AD",
+    "birth_source": "wikidata:Q168707",
+    "birth_match": "Pliny the Younger"
+  },
+  {
+    "author": "Gaius Asinius Pollio",
+    "id": "981",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "003 orationes [orat]",
+        "date": null
+      },
+      {
+        "title": "004 grammatica [gram]",
+        "date": null
+      },
+      {
+        "title": "005 historiae [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -75,
+    "birth": "75 BC",
+    "birth_source": "wikidata:Q319273",
+    "birth_match": "Gaius Asinius Pollio"
+  },
+  {
+    "author": "Q. Pompeius Q.f.A.n. Rufus",
+    "id": "614",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Q. Pompeius Q.f.Q.n. Rufus",
+    "id": "615",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Pompilius",
+    "id": "616",
+    "state": null,
+    "works": [
+      {
+        "title": "001 epigramma [poet]",
+        "date": null
+      },
+      {
+        "title": "002 tragoedia [trag]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q21587832",
+    "birth_match": "Pompilius"
+  },
+  {
+    "author": "Lucius Pomponius Bononiensis",
+    "id": "618",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Atellanae [atell]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q2240081",
+    "birth_match": "Lucius Pomponius"
+  },
+  {
+    "author": "Publius Pomponius Secundus",
+    "id": "987",
+    "state": null,
+    "works": [
+      {
+        "title": "001 tragoediae [trag]",
+        "date": null
+      },
+      {
+        "title": "002 praetextae [praet]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "50 BC",
+    "birth_source": "wikidata:Q559874",
+    "birth_match": "Publius Pomponius Secundus"
+  },
+  {
+    "author": "Sextus Pomponius",
+    "id": "1321",
+    "state": null,
+    "works": [
+      {
+        "title": "002 Liber Regularum, fragmentum [Reg]",
+        "date": null
+      }
+    ],
+    "birth_year": 200,
+    "birth": "c. 200 AD",
+    "birth_source": "wikidata-floruit:Q944631",
+    "birth_match": "Sextus Pomponius"
+  },
+  {
+    "author": "Porcius Licinus",
+    "id": "321",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q3398151",
+    "birth_match": "Porcius Licinus"
+  },
+  {
+    "author": "Pomponius Porphyrio",
+    "id": "1512",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Commentum in Horati Carmina [Carm]",
+        "date": null
+      },
+      {
+        "title": "002 Comment. in Hor. Artem Poet. [Ars]",
+        "date": null
+      },
+      {
+        "title": "003 Comment. in Hor. Carm. Saec. [Saec]",
+        "date": null
+      },
+      {
+        "title": "004 Commentum in Horati Epodos [Epod]",
+        "date": null
+      },
+      {
+        "title": "005 Commentum in Horati Sermones [S]",
+        "date": null
+      },
+      {
+        "title": "006 Commentum in Horati Epistulas [Ep]",
+        "date": null
+      },
+      {
+        "title": "007 Vita Horati [VitHor]",
+        "date": null
+      }
+    ],
+    "birth_year": 201,
+    "birth": "201 AD",
+    "birth_source": "wikidata:Q934244",
+    "birth_match": "Pomponius Porphyrion"
+  },
+  {
+    "author": "Aulus Postumius Albinus",
+    "id": "122",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Annales [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -142,
+    "birth": "142 BC",
+    "birth_source": "wikidata:Q723230",
+    "birth_match": "Aulus Postumius Albinus"
+  },
+  {
+    "author": "Precatio Omnium Herbarum",
+    "id": "990",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Precatio Omnium Herbarum []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Precatio Terrae",
+    "id": "993",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Precatio Terrae []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Priapea",
+    "id": "1103",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Priapea []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Marcus Valerius Probus",
+    "id": "996",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Vita Persii [VitPers]",
+        "date": null
+      },
+      {
+        "title": "002 De Notis Iuris [IurNot]",
+        "date": null
+      },
+      {
+        "title": "003 fragmenta [frg]",
+        "date": null
+      }
+    ],
+    "birth_year": 50,
+    "birth": "50 AD",
+    "birth_source": "wikidata:Q722683",
+    "birth_match": "Marcus Valerius Probus"
+  },
+  {
+    "author": "Sextus Propertius",
+    "id": "620",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Elegiae [Eleg]",
+        "date": null
+      }
+    ],
+    "birth_year": -47,
+    "birth": "47 BC",
+    "birth_source": "wikidata:Q8827",
+    "birth_match": "Propertius"
+  },
+  {
+    "author": "Publilius Syrus",
+    "id": "622",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Sententiae [Sent]",
+        "date": null
+      },
+      {
+        "title": "002 mimi [mim]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q363375",
+    "birth_match": "Publilius Syrus"
+  },
+  {
+    "author": "Publilius Optatianus Porfyrius",
+    "id": "2123",
+    "state": null,
+    "works": [
+      {
+        "title": "003 Epigrammata [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 250,
+    "birth": "250 AD",
+    "birth_source": "wikidata:Q1228531",
+    "birth_match": "Publilius Optatianus Porfyrius"
+  },
+  {
+    "author": "Pupius (?)",
+    "id": "1000",
+    "state": null,
+    "works": [
+      {
+        "title": "001 versus Pupio attributi [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Quintus Claudius Quadrigarius",
+    "id": "624",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Annales [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -200,
+    "birth": "200 BC",
+    "birth_source": "wikidata:Q445928",
+    "birth_match": "Quintus Claudius Quadrigarius"
+  },
+  {
+    "author": "Lucius Quinctius",
+    "id": "625",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -124,
+    "birth": "124 BC",
+    "birth_source": "wikidata:Q6697599",
+    "birth_match": "Lucius Quinctius"
+  },
+  {
+    "author": "Marcus Fabius Quintilianus",
+    "id": "1002",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Institutio Oratoria [Inst]",
+        "date": null
+      },
+      {
+        "title": "002 Declamationes Minores [Decl]",
+        "date": null
+      },
+      {
+        "title": "003 Declamationes Maiores [sp.] [DeclMaior]",
+        "date": null
+      }
+    ],
+    "birth_year": 35,
+    "birth": "35 AD",
+    "birth_source": "wikidata:Q193769",
+    "birth_match": "Quintilian"
+  },
+  {
+    "author": "Rabirius",
+    "id": "1005",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 50,
+    "birth": "50 AD",
+    "birth_source": "wikidata:Q3409247",
+    "birth_match": "Rabirius"
+  },
+  {
+    "author": "Publius Rutilius Lupus",
+    "id": "425",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Schemata Lexeos [Schem]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q13410930",
+    "birth_match": "Publius Rutilius Lupus"
+  },
+  {
+    "author": "Publius Rutilius Rufus",
+    "id": "628",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Vita Sua [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -158,
+    "birth": "158 BC",
+    "birth_source": "wikidata:Q442449",
+    "birth_match": "Publius Rutilius Rufus"
+  },
+  {
+    "author": "Rutilius Namatianus",
+    "id": "2341",
+    "state": null,
+    "works": [],
+    "birth_year": 400,
+    "birth": "400 AD",
+    "birth_source": "wikidata:Q705919",
+    "birth_match": "Rutilius Claudius Namatianus"
+  },
+  {
+    "author": "Sabidius",
+    "id": "1327",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Sacra Argeorum",
+    "id": "630",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Sacra Argeorum []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Gaius Sallustius Crispus",
+    "id": "631",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Catilinae Coniuratio [Cat]",
+        "date": null
+      },
+      {
+        "title": "002 Bellum Iugurthinum [Iug]",
+        "date": null
+      },
+      {
+        "title": "003 Historiae [HistFr]",
+        "date": null
+      },
+      {
+        "title": "004 Historiarum frr. ampliora [HistFrAmp]",
+        "date": null
+      },
+      {
+        "title": "005 Historiarum frr. e codicibus [HistFrCod]",
+        "date": null
+      },
+      {
+        "title": "006 Historiarum frr. e papyris [HistFrPap]",
+        "date": null
+      },
+      {
+        "title": "007 Ad Caesarem de Re Publ. [sp.] [Rep]",
+        "date": null
+      },
+      {
+        "title": "008 In M. Tullium Ciceronem [sp.] [Cic]",
+        "date": null
+      }
+    ],
+    "birth_year": -86,
+    "birth": "86 BC",
+    "birth_source": "wikidata:Q7170",
+    "birth_match": "Sallust"
+  },
+  {
+    "author": "Santra",
+    "id": "634",
+    "state": null,
+    "works": [
+      {
+        "title": "001 tragoediae [trag]",
+        "date": null
+      },
+      {
+        "title": "002 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q11947698",
+    "birth_match": "Santra"
+  },
+  {
+    "author": "Saserna",
+    "id": "324",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Agri Cultura [agr]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Publius Saturius",
+    "id": "635",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q12292596",
+    "birth_match": "Publius Satureius"
+  },
+  {
+    "author": "Publius Mucius Scaevola",
+    "id": "125",
+    "state": null,
+    "works": [
+      {
+        "title": "001 fragmentum [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -180,
+    "birth": "180 BC",
+    "birth_source": "wikidata:Q261441",
+    "birth_match": "Publius Mucius Scaevola"
+  },
+  {
+    "author": "Quintus Mucius Scaevola",
+    "id": "636",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -300,
+    "birth": "300 BC",
+    "birth_source": "wikidata:Q531357",
+    "birth_match": "Quintus Mucius Scaevola"
+  },
+  {
+    "author": "Q. Mucius Scaevola [pontifex]",
+    "id": "638",
+    "state": null,
+    "works": [
+      {
+        "title": "002 iurisprudentia, fragmenta [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -159,
+    "birth": "159 BC",
+    "birth_source": "wikidata:Q955339",
+    "birth_match": "Quintus Mucius Scaevola Augur"
+  },
+  {
+    "author": "Scaevus Memor",
+    "id": "1336",
+    "state": null,
+    "works": [
+      {
+        "title": "001 tragoediae [trag]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Marcus Aemilius Scaurus",
+    "id": "640",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Vita Sua [hist]",
+        "date": null
+      },
+      {
+        "title": "002 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -162,
+    "birth": "162 BC",
+    "birth_source": "wikidata:Q365148",
+    "birth_match": "Marcus Aemilius Scaurus"
+  },
+  {
+    "author": "Quintus Terentius Scaurus",
+    "id": "1370",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Orthographia [Orth]",
+        "date": null
+      },
+      {
+        "title": "002 De Adverbio et Praeposit. [AdPr]",
+        "date": null
+      },
+      {
+        "title": "003 fr. in codice Parisino 7520 [frgParis]",
+        "date": null
+      },
+      {
+        "title": "004 De ordinat. part. orat. [sp.] [frgOrd]",
+        "date": null
+      }
+    ],
+    "birth_year": 300,
+    "birth": "300 AD",
+    "birth_source": "wikidata:Q2248247",
+    "birth_match": "Quintus Terentius Scaurus"
+  },
+  {
+    "author": "P. Cornel. Scipio Afr. ma.",
+    "id": "127",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "P. Cornel. Scipio Aem. Afr.",
+    "id": "128",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "P. Cornel. Scipio Nasica Ser.",
+    "id": "130",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Scriptores Historiae Augustae",
+    "id": "2331",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Aelii Spartiani De Vita Hadriani [Hadr]",
+        "date": null
+      },
+      {
+        "title": "002 Aelii Spartiani Aelius [Ael]",
+        "date": null
+      },
+      {
+        "title": "003 Iuli Capitolini Antoninus Pius [Pius]",
+        "date": null
+      },
+      {
+        "title": "004 Vita Marci Antonini Philosophi Iuli Capitolini [AntPhil]",
+        "date": null
+      },
+      {
+        "title": "005 Iuli Capitolini Verus [Ver]",
+        "date": null
+      },
+      {
+        "title": "006 Avidius Cassius Vulcacii Gallicani V.C. [Avid]",
+        "date": null
+      },
+      {
+        "title": "007 Commodus Antoninus Aeli Lampridi [CommAnt]",
+        "date": null
+      },
+      {
+        "title": "008 Helvius Pertinax Iuli Capitolini [Pert]",
+        "date": null
+      },
+      {
+        "title": "009 Didius Iulianus Aeli Spartiani [DidIul]",
+        "date": null
+      },
+      {
+        "title": "010 Aeli Spartiani Severus [Sev]",
+        "date": null
+      },
+      {
+        "title": "011 Pescennius Niger Aeli Spartiani [PescNig]",
+        "date": null
+      },
+      {
+        "title": "012 Vita Clodii Albini Iulii Capitolini [ClodAlb]",
+        "date": null
+      },
+      {
+        "title": "013 Antoninus Caracallus Aeli Spartiani [AntCar]",
+        "date": null
+      },
+      {
+        "title": "014 Antoninus Geta Aeli Spartiani [AntGeta]",
+        "date": null
+      },
+      {
+        "title": "015 Opilius Macrinus Iuli Capitolini [OpilMacr]",
+        "date": null
+      },
+      {
+        "title": "016 Diadumenus Antoninus Aelii Lampridii [AntDiad]",
+        "date": null
+      },
+      {
+        "title": "017 Aeli Lampridii Antoninus Heliogabalus [AntHeliog]",
+        "date": null
+      },
+      {
+        "title": "018 Alexander Severus Aeli Lampridii [AlexSev]",
+        "date": null
+      },
+      {
+        "title": "019 Maximini Duo Iuli Capitolini [Maxim]",
+        "date": null
+      },
+      {
+        "title": "020 Gordian i Tr es Iuli Capitolini [Gord]",
+        "date": null
+      },
+      {
+        "title": "021 Maximus et Balbinus Iuli Capitolini [MaxBalb]",
+        "date": null
+      },
+      {
+        "title": "022 Trebelli Pollionis Valeriani Duo [Valer]",
+        "date": null
+      },
+      {
+        "title": "023 Trebelli Pollionis Gallieni Duo [Gall]",
+        "date": null
+      },
+      {
+        "title": "024 Trebelli Pollionis Tyranni Triginta [TyrTrig]",
+        "date": null
+      },
+      {
+        "title": "025 Trebelli Pollionis Divus Claudius [Claud]",
+        "date": null
+      },
+      {
+        "title": "026 Flavi Vopisci Syracusii Divus Aurelianus [Aurel]",
+        "date": null
+      },
+      {
+        "title": "027 Flavi Vopisci Syracusii Tacitus [Tac]",
+        "date": null
+      },
+      {
+        "title": "028 Flavi Vopisci Syracusii Probus [Prob]",
+        "date": null
+      },
+      {
+        "title": "029 Flavi Vopisci Syracusii Quadrigae Tyrannorum [QuadTyr]",
+        "date": null
+      },
+      {
+        "title": "030 Flavi Vopisci Syracusii Carus et Cari nus et Numerianus [Car]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Lucius Annaeus Seneca senior",
+    "id": "1014",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Controversiae [Con]",
+        "date": null
+      },
+      {
+        "title": "002 Controversiae, excerpta [ConExc]",
+        "date": null
+      },
+      {
+        "title": "003 Suasoriae [Suas]",
+        "date": null
+      },
+      {
+        "title": "004 Fragmenta [frg]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Lucius Annaeus Seneca iunior",
+    "id": "1017",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Hercules Furens [HerF]",
+        "date": null
+      },
+      {
+        "title": "002 Troades [Tro]",
+        "date": null
+      },
+      {
+        "title": "003 Phoenissae [Phoen]",
+        "date": null
+      },
+      {
+        "title": "004 Medea [Med]",
+        "date": null
+      },
+      {
+        "title": "005 Phaedra [Phaed]",
+        "date": null
+      },
+      {
+        "title": "006 Oedipus [Oed]",
+        "date": null
+      },
+      {
+        "title": "007 Agamemnon [Ag]",
+        "date": null
+      },
+      {
+        "title": "008 Thyestes [Thy]",
+        "date": null
+      },
+      {
+        "title": "009 Hercules Oetaeus [HerO]",
+        "date": null
+      },
+      {
+        "title": "010 Octavia [sp.] [Oct]",
+        "date": null
+      },
+      {
+        "title": "011 Apocolocyntosis [Apoc]",
+        "date": null
+      },
+      {
+        "title": "012 Dialogi [Dial]",
+        "date": null
+      },
+      {
+        "title": "013 De Beneficiis [Ben]",
+        "date": null
+      },
+      {
+        "title": "014 De Clementia [Cl]",
+        "date": null
+      },
+      {
+        "title": "015 Epistulae Morales ad Lucilium [Ep]",
+        "date": null
+      },
+      {
+        "title": "016 Naturales Quaestiones [Nat]",
+        "date": null
+      },
+      {
+        "title": "017 e Cleanthe versus [poet]",
+        "date": null
+      },
+      {
+        "title": "018 De Vita Patris [VitPatr]",
+        "date": null
+      }
+    ],
+    "birth_year": -4,
+    "birth": "4 BC",
+    "birth_source": "wikidata:Q2054",
+    "birth_match": "Seneca"
+  },
+  {
+    "author": "Septimius Serenus",
+    "id": "1339",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 101,
+    "birth": "101 AD",
+    "birth_source": "wikidata:Q531428",
+    "birth_match": "Septimius Serenus"
+  },
+  {
+    "author": "Quintus Serenus (Sammonicus)",
+    "id": "1515",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Liber Medicinalis [Med]",
+        "date": null
+      },
+      {
+        "title": "002 Liber Medicinalis, capitula [MedCap]",
+        "date": null
+      }
+    ],
+    "birth_year": 250,
+    "birth": "c. 250 AD",
+    "birth_source": "wikidata-floruit:Q12901708",
+    "birth_match": "Quintus Serenus"
+  },
+  {
+    "author": "Maurus Servius Honoratus",
+    "id": "2349",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Centum Metris [CentMetr]",
+        "date": null
+      },
+      {
+        "title": "002 Commentarius in Artem Donati [CommDon]",
+        "date": null
+      },
+      {
+        "title": "003 De Finalibus [Final]",
+        "date": null
+      },
+      {
+        "title": "004 De Metris Horatianis [MetrHor]",
+        "date": null
+      },
+      {
+        "title": "005 In Vergilii Aeneidos Libros [A]",
+        "date": null
+      },
+      {
+        "title": "006 In Vergilii Bucolicon Librum [Ecl]",
+        "date": null
+      },
+      {
+        "title": "007 In Vergilii Georgicon Libros [G]",
+        "date": null
+      }
+    ],
+    "birth_year": 363,
+    "birth": "363 AD",
+    "birth_source": "wikidata:Q355350",
+    "birth_match": "Servius"
+  },
+  {
+    "author": "Sevius Nicanor",
+    "id": "642",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -250,
+    "birth": "250 BC",
+    "birth_source": "wikidata:Q7398330",
+    "birth_match": "Saevius Nicanor"
+  },
+  {
+    "author": "Sextilius Ena",
+    "id": "644",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Siculus Flaccus",
+    "id": "1342",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Condicionibus Agrorum [CondAgr]",
+        "date": null
+      }
+    ],
+    "birth_year": 101,
+    "birth": "101 AD",
+    "birth_source": "wikidata:Q3624745",
+    "birth_match": "Siculus Flaccus"
+  },
+  {
+    "author": "Decimus Iunius Silanus",
+    "id": "82",
+    "state": null,
+    "works": [
+      {
+        "title": "001 versio Latina Magonis [agr]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q518928",
+    "birth_match": "Decimus Junius Silanus"
+  },
+  {
+    "author": "Silius Italicus",
+    "id": "1345",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Punica [Pun]",
+        "date": null
+      }
+    ],
+    "birth_year": 26,
+    "birth": "26 AD",
+    "birth_source": "wikidata:Q316123",
+    "birth_match": "Silius Italicus"
+  },
+  {
+    "author": "Sinnius Capito",
+    "id": "451",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica, fragmenta [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "50 BC",
+    "birth_source": "wikidata:Q1288917",
+    "birth_match": "Sinnius Capito"
+  },
+  {
+    "author": "Lucius Cornelius Sisenna",
+    "id": "646",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Historiae [hist]",
+        "date": null
+      },
+      {
+        "title": "002 Milesiae [Mil]",
+        "date": null
+      }
+    ],
+    "birth_year": -120,
+    "birth": "120 BC",
+    "birth_source": "wikidata:Q709628",
+    "birth_match": "Lucius Cornelius Sisenna"
+  },
+  {
+    "author": "Staberius Eros",
+    "id": "648",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Publius Papinius Statius",
+    "id": "1020",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Thebais [Theb]",
+        "date": null
+      },
+      {
+        "title": "002 Silvae [Silv]",
+        "date": null
+      },
+      {
+        "title": "003 Achilleis [Ach]",
+        "date": null
+      },
+      {
+        "title": "004 De Bello Germanico (fragment) [Germ]",
+        "date": null
+      }
+    ],
+    "birth_year": 45,
+    "birth": "45 AD",
+    "birth_source": "wikidata:Q243203",
+    "birth_match": "Publius Papinius Statius"
+  },
+  {
+    "author": "L. Aelius Praeconinus Stilo",
+    "id": "327",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Gaius Iulius Caesar Strabo",
+    "id": "452",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      },
+      {
+        "title": "002 tragoediae [trag]",
+        "date": null
+      }
+    ],
+    "birth_year": -130,
+    "birth": "130 BC",
+    "birth_source": "wikidata:Q1491473",
+    "birth_match": "Gaius Julius Caesar Strabo Vopiscus"
+  },
+  {
+    "author": "Sueius",
+    "id": "650",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "c. 100 BC",
+    "birth_source": "wikidata-floruit:Q1292201",
+    "birth_match": "Sueius"
+  },
+  {
+    "author": "Gaius Suetonius Tranquillus",
+    "id": "1348",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Vita Caesarum [VC]",
+        "date": null
+      },
+      {
+        "title": "002 De Poetis [Poet]",
+        "date": null
+      },
+      {
+        "title": "003 De Historicis [Hist]",
+        "date": null
+      },
+      {
+        "title": "004 De Grammaticis et Rhetoribus [GramRhet]",
+        "date": null
+      },
+      {
+        "title": "005 Prata [Prat]",
+        "date": null
+      },
+      {
+        "title": "006 fragmenta [frg]",
+        "date": null
+      }
+    ],
+    "birth_year": 70,
+    "birth": "70 AD",
+    "birth_source": "wikidata:Q10133",
+    "birth_match": "Suetonius"
+  },
+  {
+    "author": "Lucius Cornelius Sulla",
+    "id": "652",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Commentarii Rerum Gestarum [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -138,
+    "birth": "138 BC",
+    "birth_source": "wikidata:Q483783",
+    "birth_match": "Sulla"
+  },
+  {
+    "author": "Sulpicia , Caleni uxor",
+    "id": "1023",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen [poet]",
+        "date": null
+      },
+      {
+        "title": "002 De Statu Rei Publicae [sp.] [Conquaest]",
+        "date": null
+      }
+    ],
+    "birth_year": -60,
+    "birth": "60 BC",
+    "birth_source": "wikidata:Q7636567",
+    "birth_match": "Sulpicia"
+  },
+  {
+    "author": "Servius Sulpicius Rufus",
+    "id": "656",
+    "state": null,
+    "works": [
+      {
+        "title": "002 iurisprudentia [iur]",
+        "date": null
+      },
+      {
+        "title": "003 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": -106,
+    "birth": "106 BC",
+    "birth_source": "wikidata:Q435163",
+    "birth_match": "Servius Sulpicius Rufus"
+  },
+  {
+    "author": "Q. Aurelius Symmachus",
+    "id": "2301",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "L. Aurel. Avianius Symmachus",
+    "id": "2302",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Tabulae Censoriae",
+    "id": "658",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Tabulae Censoriae []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Cornelius Tacitus",
+    "id": "1351",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Vita Iulii Agricolae [Ag]",
+        "date": null
+      },
+      {
+        "title": "002 De Origine et Situ Germanorum [Ger]",
+        "date": null
+      },
+      {
+        "title": "003 Dialogus de Oratoribus [Dial]",
+        "date": null
+      },
+      {
+        "title": "004 Historiae [Hist]",
+        "date": null
+      },
+      {
+        "title": "005 Annales [Ann]",
+        "date": null
+      }
+    ],
+    "birth_year": 56,
+    "birth": "56 AD",
+    "birth_source": "wikidata:Q2161",
+    "birth_match": "Tacitus"
+  },
+  {
+    "author": "Tarquitius Priscus",
+    "id": "730",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Disciplina Etrusca, frr. [frg]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q42434226",
+    "birth_match": "Tarquitius Priscus"
+  },
+  {
+    "author": "Publius Terentius Afer",
+    "id": "134",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Andria [An]",
+        "date": null
+      },
+      {
+        "title": "002 Heauton Timorumenos [Hau]",
+        "date": null
+      },
+      {
+        "title": "003 Eunuchus [Eu]",
+        "date": null
+      },
+      {
+        "title": "004 Phormio [Ph]",
+        "date": null
+      },
+      {
+        "title": "005 Hecyra [Hec]",
+        "date": null
+      },
+      {
+        "title": "006 Adelphoe [Ad]",
+        "date": null
+      }
+    ],
+    "birth_year": -185,
+    "birth": "185 BC",
+    "birth_source": "wikidata:Q172048",
+    "birth_match": "Terence"
+  },
+  {
+    "author": "Albius Tibullus",
+    "id": "660",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Elegiae [Eleg]",
+        "date": null
+      },
+      {
+        "title": "002 carmina Tibulliana [sp.] [CarmTib]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "50 BC",
+    "birth_source": "wikidata:Q109598",
+    "birth_match": "Tibullus"
+  },
+  {
+    "author": "Ticidas",
+    "id": "661",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "50 BC",
+    "birth_source": "wikidata:Q9358666",
+    "birth_match": "Ticidas"
+  },
+  {
+    "author": "Marcus Tullius Tiro",
+    "id": "662",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -103,
+    "birth": "103 BC",
+    "birth_source": "wikidata:Q437898",
+    "birth_match": "Marcus Tullius Tiro"
+  },
+  {
+    "author": "Titinius",
+    "id": "137",
+    "state": null,
+    "works": [
+      {
+        "title": "001 togatae [tog]",
+        "date": null
+      }
+    ],
+    "birth_year": -200,
+    "birth": "200 BC",
+    "birth_source": "wikidata:Q3991846",
+    "birth_match": "Titinius"
+  },
+  {
+    "author": "Gaius Titius",
+    "id": "140",
+    "state": null,
+    "works": [
+      {
+        "title": "001 oratio [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": 450,
+    "birth": "c. 450 AD",
+    "birth_source": "wikidata-floruit:Q110914526",
+    "birth_match": "Gaius Titus Probus"
+  },
+  {
+    "author": "Titius , gram.",
+    "id": "9254",
+    "state": null,
+    "works": [
+      {
+        "title": "001 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Trabea",
+    "id": "143",
+    "state": null,
+    "works": [
+      {
+        "title": "001 palliatae [pall]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Imp. Marcus Ulpius Traianus",
+    "id": "1357",
+    "state": null,
+    "works": [
+      {
+        "title": "002 Dacica [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Gaius Trebatius Testa",
+    "id": "664",
+    "state": null,
+    "works": [
+      {
+        "title": "001 iurisprudentia et al. [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -84,
+    "birth": "84 BC",
+    "birth_source": "wikidata:Q587621",
+    "birth_match": "Trebatius Testa"
+  },
+  {
+    "author": "Gnaeus Tremelius Scrofa",
+    "id": "668",
+    "state": null,
+    "works": [
+      {
+        "title": "001 de re rustica [agr]",
+        "date": null
+      }
+    ],
+    "birth_year": -120,
+    "birth": "120 BC",
+    "birth_source": "wikidata:Q868079",
+    "birth_match": "Gnaeus Tremelius Scrofa"
+  },
+  {
+    "author": "Pompeius Trogus",
+    "id": "984",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Animalibus [Anim]",
+        "date": null
+      },
+      {
+        "title": "002 Historiae Philippicae [Hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q316119",
+    "birth_match": "Gnaeus Pompeius Trogus"
+  },
+  {
+    "author": "Quintus Aelius Tubero",
+    "id": "670",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Historiae [hist]",
+        "date": null
+      },
+      {
+        "title": "002 liber ad C. Oppium, fr. [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -74,
+    "birth": "74 BC",
+    "birth_source": "wikidata:Q950770",
+    "birth_match": "Quintus Aelius Tubero"
+  },
+  {
+    "author": "Turnus",
+    "id": "1029",
+    "state": null,
+    "works": [
+      {
+        "title": "001 satura [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Sextus Turpilius",
+    "id": "146",
+    "state": null,
+    "works": [
+      {
+        "title": "001 palliatae [pall]",
+        "date": null
+      }
+    ],
+    "birth_year": -200,
+    "birth": "200 BC",
+    "birth_source": "wikidata:Q182243",
+    "birth_match": "Turpilius"
+  },
+  {
+    "author": "Turranius Niger",
+    "id": "672",
+    "state": null,
+    "works": [
+      {
+        "title": "001 de re rustica scripta [agr]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Vagellius",
+    "id": "1032",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "50 BC",
+    "birth_source": "wikidata:Q60040662",
+    "birth_match": "Vagellius"
+  },
+  {
+    "author": "Valerius , comoed.",
+    "id": "674",
+    "state": null,
+    "works": [
+      {
+        "title": "001 comoedia [mim]",
+        "date": null
+      }
+    ],
+    "birth_year": 100,
+    "birth": "100 AD",
+    "birth_source": "wikidata:Q15852393",
+    "birth_match": "Valerius"
+  },
+  {
+    "author": "Valerius Antias",
+    "id": "676",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Annales [hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -200,
+    "birth": "200 BC",
+    "birth_source": "wikidata:Q947576",
+    "birth_match": "Valerius Antias"
+  },
+  {
+    "author": "Quintus Valerius Soranus",
+    "id": "678",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -150,
+    "birth": "150 BC",
+    "birth_source": "wikidata:Q3655289",
+    "birth_match": "Quintus Valerius Soranus"
+  },
+  {
+    "author": "Gaius Valerius Flaccus",
+    "id": "1035",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Argonautica [Arg]",
+        "date": null
+      }
+    ],
+    "birth_year": 45,
+    "birth": "45 AD",
+    "birth_source": "wikidata:Q316090",
+    "birth_match": "Gaius Valerius Flaccus"
+  },
+  {
+    "author": "Valerius Maximus",
+    "id": "1038",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Facta et Dicta Memorabilia [Mem]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q379991",
+    "birth_match": "Valerius Maximus"
+  },
+  {
+    "author": "Iulius Valerius",
+    "id": "1672",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 420,
+    "birth": "420 AD",
+    "birth_source": "wikidata:Q191956",
+    "birth_match": "Majorian"
+  },
+  {
+    "author": "Gaius Valgius Rufus",
+    "id": "680",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -65,
+    "birth": "65 BC",
+    "birth_source": "wikidata:Q8817",
+    "birth_match": "Gaius Valgius Rufus"
+  },
+  {
+    "author": "Lucius Varius Rufus",
+    "id": "682",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      },
+      {
+        "title": "002 tragoediae [trag]",
+        "date": null
+      }
+    ],
+    "birth_year": -74,
+    "birth": "74 BC",
+    "birth_source": "wikidata:Q8820",
+    "birth_match": "Lucius Varius Rufus"
+  },
+  {
+    "author": "Marcus Terentius Varro",
+    "id": "684",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Lingua Latina [L]",
+        "date": null
+      },
+      {
+        "title": "002 Res Rusticae [R]",
+        "date": null
+      },
+      {
+        "title": "003 Antiquitates Rerum Humanarum [AntiqHum]",
+        "date": null
+      },
+      {
+        "title": "004 Antiquitates Rerum Divinarum [AntiqDiv]",
+        "date": null
+      },
+      {
+        "title": "005 Annales [Ann]",
+        "date": null
+      },
+      {
+        "title": "006 De Gente Populi Romani [GentPopRom]",
+        "date": null
+      },
+      {
+        "title": "007 De Vita Populi Romani [VitaPopRom]",
+        "date": null
+      },
+      {
+        "title": "008 Res Urbanae [ResUrb]",
+        "date": null
+      },
+      {
+        "title": "009 Logistorici [Log]",
+        "date": null
+      },
+      {
+        "title": "010 carmina [carm]",
+        "date": null
+      },
+      {
+        "title": "011 Menippeae [Men]",
+        "date": null
+      },
+      {
+        "title": "012 epistulae [epist]",
+        "date": null
+      },
+      {
+        "title": "013 epistulae Latinae [epistLat]",
+        "date": null
+      },
+      {
+        "title": "014 fragmenta grammatica [gram]",
+        "date": null
+      },
+      {
+        "title": "015 frr. de historia litterarum [litt]",
+        "date": null
+      },
+      {
+        "title": "016 fragmenta varia [var]",
+        "date": null
+      },
+      {
+        "title": "017 incertae sedis fragmenta [inc]",
+        "date": null
+      }
+    ],
+    "birth_year": -116,
+    "birth": "116 BC",
+    "birth_source": "wikidata:Q206119",
+    "birth_match": "Marcus Terentius Varro"
+  },
+  {
+    "author": "P. Terentius Varro Atacinus",
+    "id": "686",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Pseudo- Varro",
+    "id": "1041",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Sententiae [Sent]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Velius Longus",
+    "id": "1374",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Orthographia [Orth]",
+        "date": null
+      }
+    ],
+    "birth_year": 200,
+    "birth": "c. 200 AD",
+    "birth_source": "wikidata-floruit:Q11954435",
+    "birth_match": "Velius Longus"
+  },
+  {
+    "author": "Velleius Paterculus",
+    "id": "1044",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Historia Romana [Hist]",
+        "date": null
+      }
+    ],
+    "birth_year": -19,
+    "birth": "19 BC",
+    "birth_source": "wikidata:Q316098",
+    "birth_match": "Marcus Velleius Paterculus"
+  },
+  {
+    "author": "Veranius",
+    "id": "1047",
+    "state": null,
+    "works": [
+      {
+        "title": "001 libri de rebus sacris [iur]",
+        "date": null
+      }
+    ],
+    "birth_year": -50,
+    "birth": "c. 50 BC",
+    "birth_source": "wikidata-floruit:Q104867931",
+    "birth_match": "Veranius"
+  },
+  {
+    "author": "Appendix Vergiliana",
+    "id": "692",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Dirae [Dirae]",
+        "date": null
+      },
+      {
+        "title": "002 Lydia [Lydia]",
+        "date": null
+      },
+      {
+        "title": "003 Culex [Culex]",
+        "date": null
+      },
+      {
+        "title": "004 Aetna [Aetna]",
+        "date": null
+      },
+      {
+        "title": "005 Copa [Copa]",
+        "date": null
+      },
+      {
+        "title": "006 Elegiae in Maecenatem [ElegMaec]",
+        "date": null
+      },
+      {
+        "title": "007 Ciris [Ciris]",
+        "date": null
+      },
+      {
+        "title": "008 Priapea [Priapea]",
+        "date": null
+      },
+      {
+        "title": "009 Catalepton [Catal]",
+        "date": null
+      },
+      {
+        "title": "010 Priapeum 'Quid Hoc Novi Est?' [Priapeum]",
+        "date": null
+      },
+      {
+        "title": "011 Moretum [Mor]",
+        "date": null
+      },
+      {
+        "title": "012 De Institutione Viri Boni [InstVir]",
+        "date": null
+      },
+      {
+        "title": "013 De Est et Non [DeEst]",
+        "date": null
+      },
+      {
+        "title": "014 De Rosis Nascentibus [Rosis]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Publius Vergilius Maro",
+    "id": "690",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Eclogae [Ecl]",
+        "date": null
+      },
+      {
+        "title": "002 Georgica [G]",
+        "date": null
+      },
+      {
+        "title": "003 Aeneis [A]",
+        "date": null
+      }
+    ],
+    "birth_year": -70,
+    "birth": "70 BC",
+    "birth_source": "wikidata:Q1398",
+    "birth_match": "Virgil"
+  },
+  {
+    "author": "Lucius Verginius Rufus",
+    "id": "1050",
+    "state": null,
+    "works": [
+      {
+        "title": "001 epigramma [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": 14,
+    "birth": "14 AD",
+    "birth_source": "wikidata:Q704842",
+    "birth_match": "Lucius Verginius Rufus"
+  },
+  {
+    "author": "Marcus Verrius Flaccus",
+    "id": "869",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Etruscarum Rerum Libri [hist]",
+        "date": null
+      },
+      {
+        "title": "002 grammatica [gram]",
+        "date": null
+      }
+    ],
+    "birth_year": -55,
+    "birth": "55 BC",
+    "birth_source": "wikidata:Q454995",
+    "birth_match": "Verrius Flaccus"
+  },
+  {
+    "author": "Vibius Crispus",
+    "id": "1053",
+    "state": null,
+    "works": [
+      {
+        "title": "001 orationes [orat]",
+        "date": null
+      }
+    ],
+    "birth_year": 50,
+    "birth": "50 AD",
+    "birth_source": "wikidata:Q1241969",
+    "birth_match": "Lucius Junius Quintus Vibius Crispus"
+  },
+  {
+    "author": "Vita Iuvenalis",
+    "id": "9969",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Vita Iuvenalis []",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Vitruvius",
+    "id": "1056",
+    "state": null,
+    "works": [
+      {
+        "title": "001 De Architectura [Arch]",
+        "date": null
+      }
+    ],
+    "birth_year": -80,
+    "birth": "80 BC",
+    "birth_source": "wikidata:Q47163",
+    "birth_match": "Vitruvius"
+  },
+  {
+    "author": "Volcacius Sedigitus",
+    "id": "330",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmina [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": -100,
+    "birth": "100 BC",
+    "birth_source": "wikidata:Q959633",
+    "birth_match": "Volcatius Sedigitus"
+  },
+  {
+    "author": "Volumnius",
+    "id": "694",
+    "state": null,
+    "works": [
+      {
+        "title": "001 carmen [poet]",
+        "date": null
+      }
+    ],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Latin Bible ( Vulgate )",
+    "id": "4004",
+    "state": null,
+    "works": [],
+    "birth_year": null,
+    "birth": null,
+    "birth_source": null,
+    "birth_match": null
+  },
+  {
+    "author": "Zeno of Verona",
+    "id": "2150",
+    "state": null,
+    "works": [
+      {
+        "title": "001 Tractatus [Tract]",
+        "date": null
+      }
+    ],
+    "birth_year": 300,
+    "birth": "300 AD",
+    "birth_source": "wikidata:Q189776",
+    "birth_match": "Zeno of Verona"
+  }
+]
